@@ -126,7 +126,7 @@ const scrapeBugcrowdPublic = async (): Promise<BugBounty[]> => {
       payout: program.maxBounty,
       severita: 'high',
       assetType: program.type,
-      url: `https://bugcrowd.com/${program.handle}`,
+      url: `https://bugcrowd.com/programs/${program.handle}`,
       descrizione: `${program.name} managed bug bounty program su Bugcrowd con payout fino a $${program.maxBounty}`,
       dataCreazione: new Date().toISOString(),
       tags: ['crowdsourced', 'verified', 'bugcrowd'],

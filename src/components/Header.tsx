@@ -15,9 +15,9 @@ export const Header = ({ isDarkMode, setIsDarkMode, metadata }: Props) => {
         <div className={`absolute w-96 h-96 ${isDarkMode ? 'bg-purple-500/15' : 'bg-purple-300/15'} rounded-full blur-3xl -bottom-48 -right-48 animate-pulse`} style={{ animationDelay: '1s' }}></div>
       </div>
       
-      <div className="container mx-auto px-4">
-        <div className="flex flex-col items-center">
-          <h1 className={`text-5xl sm:text-6xl lg:text-7xl font-cyber text-center mb-4 bg-gradient-to-r ${isDarkMode ? 'from-neon-pink via-cyan-400 to-neon-green' : 'from-pink-500 via-blue-500 to-green-500'} bg-clip-text text-transparent ${isDarkMode ? 'glow-text' : ''} tracking-wider drop-shadow-lg`}>
+      <div className="container mx-auto px-4 py-6">
+        <div className="flex flex-col items-center justify-center text-center">
+          <h1 className={`text-5xl sm:text-6xl lg:text-7xl font-cyber mb-4 bg-gradient-to-r ${isDarkMode ? 'from-neon-pink via-cyan-400 to-neon-green' : 'from-pink-500 via-blue-500 to-green-500'} bg-clip-text text-transparent ${isDarkMode ? 'glow-text' : ''} tracking-wider drop-shadow-lg`}>
             BUG BOUNTY TRACKER
           </h1>
           {metadata && (
