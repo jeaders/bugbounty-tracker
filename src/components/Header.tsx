@@ -17,8 +17,8 @@ export const Header = ({ isDarkMode, setIsDarkMode, metadata }: Props) => {
       
       <div className="container mx-auto px-4 py-6">
         <div className="flex flex-col items-center justify-center text-center">
-          <h1 className={`text-5xl sm:text-6xl lg:text-7xl font-cyber mb-4 bg-gradient-to-r ${isDarkMode ? 'from-neon-pink via-cyan-400 to-neon-green' : 'from-pink-500 via-blue-500 to-green-500'} bg-clip-text text-transparent ${isDarkMode ? 'glow-text' : ''} tracking-wider drop-shadow-lg`}>
-            BUG BOUNTY TRACKER
+<h1 className={`text-3xl sm:text-4xl lg:text-5xl font-cyber text-center mb-2 bg-gradient-to-r ${isDarkMode ? 'from-neon-pink via-cyan-400 to-neon-green' : 'from-pink-500 via-blue-500 to-green-500'} bg-clip-text text-transparent ${isDarkMode ? 'glow-text' : ''} tracking-wider drop-shadow-lg`}>
+             BUG BOUNTY TRACKER
           </h1>
           {metadata && (
             <div className={`mt-2 text-[10px] sm:text-xs font-mono ${isDarkMode ? 'text-cyan-600' : 'text-gray-500'}`}>
