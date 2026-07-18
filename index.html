@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5" />
+    <meta name="theme-color" content="#00ffff" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#0ea5e9" media="(prefers-color-scheme: light)" />
+    <meta name="description" content="Tracker cyberpunk per bug bounty programs con missioni dettagliate, tecniche di testing e tools di recon. 13+ piattaforme integrate, 100+ bounty aggiornati quotidianamente." />
+    <meta name="keywords" content="bug bounty, cybersecurity, hacking, penetration testing, hackerone, bugcrowd, intigriti, security" />
+    <meta name="author" content="Bug Bounty Tracker Community" />
+
+    <!-- PWA / iOS -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="BountyTracker" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="Bug Bounty Tracker" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Bug Bounty Tracker" />
+    <meta property="og:description" content="Tracker cyberpunk per bug bounty programs con missioni dettagliate" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="it_IT" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bug Bounty Tracker" />
+    <meta name="twitter:description" content="Tracker cyberpunk per bug bounty programs" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Fira+Code:wght@300;400;500;700&display=swap" rel="stylesheet" />
+
+    <title>Bug Bounty Tracker</title>
+  </head>
+  <body class="bg-black text-cyan-400 font-mono">
+    <noscript>
+      <div style="padding: 2rem; text-align: center; color: #00ffff; font-family: monospace;">
+        🐛 Questa app richiede JavaScript abilitato per funzionare.
+      </div>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Service Worker registration
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(reg => console.log('[PWA] Service Worker registrato:', reg.scope))
+            .catch(err => console.log('[PWA] SW registration fallita:', err))
+        })
+      }
+    </script>
+  </body>
+</html>

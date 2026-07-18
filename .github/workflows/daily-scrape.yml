@@ -1,0 +1,109 @@
+name: Daily Bounty Update
+
+# Esegue scraping giornaliero e committa il DB aggiornato
+# Netlify ridistribuisce automaticamente al commit
+on:
+  schedule:
+    # Ogni giorno alle 06:00 UTC
+    - cron: '0 6 * * *'
+  # Permette trigger manuale da Actions tab
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Forza aggiornamento anche se DB non è cambiato'
+        required: false
+        default: 'false'
+
+# Evita race condition su commit automatici
+concurrency:
+  group: bounty-update
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-commit:
+    name: Scrape & Update DB
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: 🚀 Run scraper
+        id: scrape
+        run: |
+          npm run scrape 2>&1 | tee scrape-output.txt
+          echo "## Scraping Output" >> $GITHUB_STEP_SUMMARY
+          cat scrape-output.txt >> $GITHUB_STEP_SUMMARY
+
+      - name: 📊 Validate JSON output
+        run: |
+          if [ ! -f "data/bounties.json" ]; then
+            echo "❌ Error: bounties.json not generated"
+            exit 1
+          fi
+          # Validazione JSON
+          node -e "const data = require('./data/bounties.json'); if (!Array.isArray(data)) throw new Error('Not an array'); if (data.length === 0) throw new Error('Empty array'); console.log('✅ Valid JSON with', data.length, 'bounties');"
+
+      - name: 📋 Copy to public/ for Netlify
+        run: |
+          mkdir -p public
+          cp data/bounties.json public/bounties.json
+          cp data/metadata.json public/bounties-meta.json
+          echo "✅ Copied bounties.json and bounties-meta.json to public/"
+
+      - name: 📈 Check for changes
+        id: git-changes
+        run: |
+          if git diff --quiet public/bounties.json public/bounties-meta.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No changes detected in DB"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            # Calcola diff stats
+            ADDED=$(git diff --numstat public/bounties.json | awk '{print $1}')
+            REMOVED=$(git diff --numstat public/bounties.json | awk '{print $2}')
+            echo "📊 Diff: +${ADDED} lines, -${REMOVED} lines"
+          fi
+
+      - name: 💾 Commit & push
+        if: steps.git-changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/bounties.json public/bounties-meta.json data/bounties.json data/metadata.json
+          TODAY=$(date -u +"%Y-%m-%d %H:%M UTC")
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            git commit -m "chore(data): manual bounty DB update - ${TODAY}"
+          else
+            git commit -m "chore(data): daily bounty DB update - ${TODAY}"
+          fi
+          git push
+          echo "✅ Pushed updated DB"
+
+      - name: 📢 Summary
+        if: always()
+        run: |
+          echo "## 📊 Daily Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Workflow**: ${{ github.workflow }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          if [ -f "data/metadata.json" ]; then
+            TOTAL=$(node -e "console.log(require('./data/metadata.json').totalBounties)")
+            PAYOUT=$(node -e "console.log(require('./data/metadata.json').totalPayout.toLocaleString())")
+            echo "- **Total Bounties**: ${TOTAL}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Total Payout**: $${PAYOUT}" >> $GITHUB_STEP_SUMMARY
+          fi
