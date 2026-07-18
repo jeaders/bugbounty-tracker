@@ -249,15 +249,25 @@ ${filteredBounties.map(b => `  <bounty>
             description="Strumenti integrati per iniziare la caccia"
             isActive={activeSection === 'recon'}
           >
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
-              {[
-                { name: 'Subdomain Finder', desc: 'Enumera sottodomini di un dominio target', cmd: 'subfinder -d target.com -silent | httpx -status-code' },
-                { name: 'Port Scanner', desc: 'Scansione veloce tutte le porte', cmd: 'nmap -sV -sC -p- --min-rate 1000 target.com' },
-                { name: 'URL Discovery', desc: 'Trova endpoint da Wayback Machine', cmd: 'echo target.com | waybackurls | grep -E "\\.(js|json|php|aspx)"' },
-                { name: 'Vuln Scan', desc: 'Template-based scanner', cmd: 'nuclei -u https://target.com -t cves/ -t technologies/' },
-                { name: 'JS Analysis', desc: 'Estrai API keys da file JS', cmd: 'echo target.com | gau | grep "\\.js$" | xargs -I{} python3 extractjs.py {}' },
-                { name: 'Git Dorking', desc: 'Cerca secrets in repo GitHub', cmd: 'gh search code "target.com" --extension json --extension env' }
-              ].map((tool, i) => (
+<div className="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
+               {[
+                 { name: 'Subdomain Finder', desc: 'Enumera sottodomini e verifica attività', cmd: 'subfinder -d target.com -silent | httpx -status-code -title' },
+                 { name: 'Port Scanner', desc: 'Scansione veloce di porte aperte', cmd: 'nmap -sV -sC -p- --min-rate 1000 target.com' },
+                 { name: 'URL Discovery', desc: 'Trova URL storici via Wayback', cmd: 'echo target.com | waybackurls | grep -E "\\.(js|json|php|aspx)"' },
+                 { name: 'Vuln Scanner', desc: 'Template-based scanner Nuclei', cmd: 'nuclei -u https://target.com -t cves/ -t technologies/' },
+                 { name: 'JS Analysis', desc: 'Estrai endpoint e secrets da JS', cmd: 'echo target.com | gau | grep "\\.js$" | xargs -I{} python3 extractjs.py {}' },
+                 { name: 'Git Dorking', desc: 'Cerca credenziali in GitHub', cmd: 'gh search code "target.com" --extension json --extension env --extension yml' },
+                 { name: 'Param Miner', desc: 'Scansione parametri GET/POST', cmd: 'ffuf -u "target.com/?param=FUZZ" -w /opt/seclists/Discovery/Web-Params.txt' },
+                 { name: 'Header Scanner', desc: 'Analizza header e tech stack', cmd: 'curl -sI target.com | grep -E "Server|X-Powered|Set-Cookie"' },
+                 { name: 'Source Finder', desc: 'Trova file JS/CSS per analisi', cmd: 'gau target.com | grep -E "\\.(js|json|css)$" | head -20' },
+                 { name: 'Tech Detector', desc: 'Rileva framework e CMS', cmd: 'httpx -tech-detect -title -status-code target.com' },
+                 { name: 'Screenshot', desc: 'Screenshot di tutti gli host', cmd: 'gau target.com | httpx -silent | aquatone' },
+                 { name: 'DNS Dump', desc: 'Risolvi tutti i record DNS', cmd: 'dnsx -d target.com -a -resp -txt -mx' },
+                 { name: 'Fuzzing Paths', desc: 'Directory brute force', cmd: 'dirsearch -u target.com -x 403,404 -e php,html,js -w /wordlist.txt' },
+                 { name: 'XSS Scanner', desc: 'Trova XSS con parameter pollution', cmd: 'dalfox url https://target.com?q=test --silence' },
+                 { name: 'SQL Finder', desc: 'Trova SQLi injection points', cmd: 'sqlmap -u "target.com?id=1" --batch --level=5 --risk=3' },
+                 { name: 'Open Redirect', desc: 'Test redirect vulnerabile', cmd: 'ffuf -u "target.com?url=FUZZ" -w payloads.txt -mc 302' }
+               ].map((tool, i) => (
                 <div key={i} className="cyber-card">
                   <h3 className="font-cyber text-neon-pink text-base mb-1">{tool.name}</h3>
                   <p className="text-cyan-500 text-xs mb-3 font-mono">{tool.desc}</p>
@@ -276,13 +286,15 @@ ${filteredBounties.map(b => `  <bounty>
             description="Impara dalle basi al livello expert"
             isActive={activeSection === 'academy'}
           >
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
-              {[
-                { level: 'Beginner', color: 'green', title: 'Web Fundamentals', desc: 'HTTP, cookies, CORS, same-origin policy', resources: ['PortSwigger Web Security Academy', 'OWASP Top 10', 'Hacker101 CTF'] },
-                { level: 'Intermediate', color: 'yellow', title: 'Burp Suite & Tools', desc: 'Proxy, scanner, intruder, repeater', resources: ['Burp Suite Official Docs', 'NaHamSec YouTube', 'InsiderPhD YouTube'] },
-                { level: 'Advanced', color: 'orange', title: 'Business Logic Bugs', desc: 'Sconti, ruoli, race conditions, payment bypass', resources: ['HackerOne Hacktivity', 'PortSwigger Business Logic', 'Books: Web Hacking 101'] },
-                { level: 'Expert', color: 'red', title: 'Advanced Exploitation', desc: 'SSRF, deserialization, prototype pollution', resources: ['Project Zero blog', 'Google BugHunter University', 'LiveOverflow YouTube'] }
-              ].map((track, i) => (
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
+               {[
+                 { level: 'Beginner', color: 'green', title: 'Web Fundamentals', desc: 'HTTP, cookies, CORS, same-origin, session management', resources: ['PortSwigger Web Security Academy (gratuito)', 'OWASP Top 10', 'Hacker101 CTF', 'HTTP Basics', 'Cookie Security'] },
+                 { level: 'Intermediate', color: 'yellow', title: 'Burp Suite & Recon', desc: 'Proxy, scanner, intruder, repeater, recon workflow', resources: ['Burp Suite Docs', 'NaHamSec YouTube', 'InsiderPhD YouTube', 'Katana scanner', 'Gau + waybackurls'] },
+                 { level: 'Advanced', color: 'orange', title: 'Business Logic', desc: 'Race conditions, IDOR, payment bypass, logic flaws', resources: ['PortSwigger Business Logic', 'HackerOne Hacktivity', 'Web Hacking 101 book', 'API hacking', 'Authentication bypass'] },
+                 { level: 'Specialized', color: 'blue', title: 'Mobile Security', desc: 'Android/iOS apps, mobile API, certificate pinning', resources: ['Mobile Security Testing Guide', 'Frida toolkit', 'Objection framework', 'apktool/jadx', 'SSL unpinning'] },
+                 { level: 'Specialized', color: 'purple', title: 'Recon & OSINT', desc: 'Subdomain enumeration, asset discovery, information gathering', resources: ['SpiderFoot', 'theHarvester', 'assetfinder', 'subfinder', 'github dorking'] },
+                 { level: 'Expert', color: 'red', title: 'Advanced Exploits', desc: 'SSRF, deserialization, RCE, auth bypass avanzato', resources: ['Project Zero blog', 'Google BugHunter Uni', 'LiveOverflow YouTube', '0day patterns', 'Reverse engineering'] }
+               ].map((track, i) => (
                 <div key={i} className="cyber-card">
                   <span className={`cyber-badge border-${track.color}-500/50 text-${track.color}-400 mb-2 inline-block`}>
                     {track.level.toUpperCase()}
