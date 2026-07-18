@@ -1,0 +1,80 @@
+{
+  "name": "Bug Bounty Tracker",
+  "short_name": "BountyTracker",
+  "description": "Tracker cyberpunk per bug bounty programs con missioni dettagliate",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "categories": ["security", "developer", "productivity", "education"],
+  "lang": "it",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Bounty",
+      "short_name": "Bounty",
+      "description": "Lista dei bounty disponibili",
+      "url": "/?section=bounties",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Programmi",
+      "short_name": "Programmi",
+      "description": "Catalogo programmi per piattaforma",
+      "url": "/?section=programs",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Recon",
+      "short_name": "Recon",
+      "description": "Toolbox per reconnaissance",
+      "url": "/?section=recon",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Academy",
+      "short_name": "Academy",
+      "description": "Impara bug bounty hunting",
+      "url": "/?section=academy",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "share_target": {
+    "action": "/?section=bounties",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+  "edge_side_panel": {
+    "preferred_width": 480
+  },
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "auto"
+  }
+}

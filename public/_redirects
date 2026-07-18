@@ -1,0 +1,6 @@
+# Netlify _redirects file
+# Tutte le rotte non API vanno a index.html (SPA)
+# Le rotte /api/* vanno a Netlify Functions
+
+/api/*  /.netlify/functions/:splat  200
+/*      /index.html                 200
