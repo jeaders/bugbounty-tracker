@@ -32,6 +32,12 @@
   .touch-manipulation {
     touch-action: manipulation;
   }
+  @supports (padding: max(0px)) {
+    .safe-padding {
+      padding-left: max(env(safe-area-inset-left), 16px);
+      padding-right: max(env(safe-area-inset-right), 16px);
+    }
+  }
 }
 
 @layer components {
@@ -102,5 +108,10 @@
   
   .neon-glow {
     filter: drop-shadow(0 0 15px rgba(0, 255, 255, 0.6));
+  }
+  
+  .min-touch-target {
+    min-height: 44px;
+    min-width: 44px;
   }
 }
