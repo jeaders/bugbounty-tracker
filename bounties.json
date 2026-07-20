@@ -1,0 +1,141 @@
+[
+  {
+    "id": "h1-twitter",
+    "titolo": "twitter Vulnerability Disclosure Program",
+    "programma": "HackerOne",
+    "payout": 15000,
+    "severita": "medium",
+    "assetType": "web",
+    "url": "https://hackerone.com/twitter",
+    "descrizione": "twitter public bug bounty program",
+    "dataCreazione": "2026-07-14T22:17:45.732Z",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "id": "rss-1784067468319-0.5327928702636991",
+    "titolo": "Student Loan Breach Exposes 2.5M Records",
+    "programma": "Security Feed",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "web",
+    "url": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+    "descrizione": "Articolo di sicurezza - potenziale bounty",
+    "dataCreazione": "2022-08-31T12:57:48.000Z",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": "rss-1784067468320-0.10120230688501897",
+    "titolo": "Watering Hole Attacks Push ScanBox Keylogger",
+    "programma": "Security Feed",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "web",
+    "url": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+    "descrizione": "Articolo di sicurezza - potenziale bounty",
+    "dataCreazione": "2022-08-30T16:00:43.000Z",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": "rss-1784067468320-0.4791844986155307",
+    "titolo": "Tentacles of &#8216;0ktapus&#8217; Threat Group Victimize 130 Firms",
+    "programma": "Security Feed",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "web",
+    "url": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+    "descrizione": "Articolo di sicurezza - potenziale bounty",
+    "dataCreazione": "2022-08-29T14:56:19.000Z",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": "bc-amazon",
+    "titolo": "Amazon Security Program",
+    "programma": "Bugcrowd",
+    "payout": 15000,
+    "severita": "high",
+    "assetType": "web",
+    "url": "https://bugcrowd.com/h/azon",
+    "descrizione": "Managed Amazon vulnerability disclosure via Bugcrowd platform",
+    "dataCreazione": "2026-07-14T22:17:48.600Z",
+    "tags": [
+      "verified",
+      "crowdsourced",
+      "web"
+    ]
+  },
+  {
+    "id": "bc-ebay",
+    "titolo": "eBay Security Program",
+    "programma": "Bugcrowd",
+    "payout": 15000,
+    "severita": "high",
+    "assetType": "web",
+    "url": "https://bugcrowd.com/h/ebay",
+    "descrizione": "Managed eBay vulnerability disclosure via Bugcrowd platform",
+    "dataCreazione": "2026-07-14T22:17:48.600Z",
+    "tags": [
+      "verified",
+      "crowdsourced",
+      "web"
+    ]
+  },
+  {
+    "id": "bc-atlassian",
+    "titolo": "Atlassian Security Program",
+    "programma": "Bugcrowd",
+    "payout": 15000,
+    "severita": "high",
+    "assetType": "web",
+    "url": "https://bugcrowd.com/atlassian",
+    "descrizione": "Managed Atlassian vulnerability disclosure via Bugcrowd platform",
+    "dataCreazione": "2026-07-14T22:17:48.600Z",
+    "tags": [
+      "verified",
+      "crowdsourced",
+      "web"
+    ]
+  },
+  {
+    "id": "inti-netflix",
+    "titolo": "Netflix Bug Bounty",
+    "programma": "Intigriti",
+    "payout": 15000,
+    "severita": "high",
+    "assetType": "web",
+    "url": "https://intigriti.com/programs/netflix",
+    "descrizione": "European platform Netflix vulnerability disclosure",
+    "dataCreazione": "2026-07-14T22:17:48.600Z",
+    "tags": [
+      "verified",
+      "europe",
+      "web"
+    ]
+  },
+  {
+    "id": "inti-paypal",
+    "titolo": "PayPal Bug Bounty",
+    "programma": "Intigriti",
+    "payout": 15000,
+    "severita": "high",
+    "assetType": "api",
+    "url": "https://intigriti.com/programs/paypal",
+    "descrizione": "European platform PayPal vulnerability disclosure",
+    "dataCreazione": "2026-07-14T22:17:48.600Z",
+    "tags": [
+      "verified",
+      "europe",
+      "api"
+    ]
+  }
+]
