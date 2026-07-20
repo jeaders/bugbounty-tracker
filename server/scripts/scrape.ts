@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import { join, dirname } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const OUTPUT_PATH = join(__dirname, '..', 'data', 'bounties.json')
+const OUTPUT_PATH = join(__dirname, '..', '..', 'data', 'bounties.json')
 
 async function main() {
   try {
