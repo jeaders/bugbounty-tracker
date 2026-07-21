@@ -34,7 +34,7 @@ jobs:
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
       - name: 📦 Install dependencies
@@ -49,18 +49,18 @@ jobs:
 
       - name: 📊 Validate JSON output
         run: |
-          if [ ! -f "data/bounties.json" ]; then
+          if [ ! -f "server/data/bounties.json" ]; then
             echo "❌ Error: bounties.json not generated"
             exit 1
           fi
           # Validazione JSON
-          node -e "const data = require('./data/bounties.json'); if (!Array.isArray(data)) throw new Error('Not an array'); if (data.length === 0) throw new Error('Empty array'); console.log('✅ Valid JSON with', data.length, 'bounties');"
+          node -e "const data = require('./server/data/bounties.json'); if (!Array.isArray(data)) throw new Error('Not an array'); if (data.length === 0) throw new Error('Empty array'); console.log('✅ Valid JSON with', data.length, 'bounties');"
 
       - name: 📋 Copy to public/ for Netlify
         run: |
           mkdir -p public
-          cp data/bounties.json public/bounties.json
-          cp data/metadata.json public/bounties-meta.json
+          cp server/data/bounties.json public/bounties.json
+          cp server/data/metadata.json public/bounties-meta.json
           echo "✅ Copied bounties.json and bounties-meta.json to public/"
 
       - name: 📈 Check for changes
@@ -82,7 +82,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/bounties.json public/bounties-meta.json data/bounties.json data/metadata.json
+          git add public/bounties.json public/bounties-meta.json server/data/bounties.json server/data/metadata.json
           TODAY=$(date -u +"%Y-%m-%d %H:%M UTC")
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             git commit -m "chore(data): manual bounty DB update - ${TODAY}"
@@ -101,9 +101,9 @@ jobs:
           echo "- **Workflow**: ${{ github.workflow }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
-          if [ -f "data/metadata.json" ]; then
-            TOTAL=$(node -e "console.log(require('./data/metadata.json').totalBounties)")
-            PAYOUT=$(node -e "console.log(require('./data/metadata.json').totalPayout.toLocaleString())")
+          if [ -f "server/data/metadata.json" ]; then
+            TOTAL=$(node -e "console.log(require('./server/data/metadata.json').totalBounties)")
+            PAYOUT=$(node -e "console.log(require('./server/data/metadata.json').totalPayout.toLocaleString())")
             echo "- **Total Bounties**: ${TOTAL}" >> $GITHUB_STEP_SUMMARY
             echo "- **Total Payout**: $${PAYOUT}" >> $GITHUB_STEP_SUMMARY
           fi
