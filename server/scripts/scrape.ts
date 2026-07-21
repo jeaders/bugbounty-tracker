@@ -10,6 +10,10 @@
 import { scrapeAllPlatforms } from '../src/scraper'
 import { writeFileSync, mkdirSync } from 'fs'
 import { dirname, join } from 'path'
+import { fileURLToPath } from 'url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 const OUTPUT_PATH = join(__dirname, '..', 'data', 'bounties.json')
 
