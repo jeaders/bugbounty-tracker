@@ -54,7 +54,7 @@ export const PullToRefresh = memo(({ onRefresh, children }: Props) => {
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
-      className="relative overflow-y-auto min-h-screen overscroll-y-contain touch-manipulation"
+      className="relative overflow-y-auto h-screen overscroll-y-contain touch-manipulation"
     >
       <div
         className="absolute top-0 left-0 right-0 flex items-center justify-center pointer-events-none z-10 transition-opacity"
