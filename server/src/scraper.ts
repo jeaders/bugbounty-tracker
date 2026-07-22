@@ -108,7 +108,6 @@ const scrapeBugcrowdPublic = async (): Promise<BugBounty[]> => {
     { handle: 'amazon', name: 'Amazon Security', maxBounty: 15000, type: 'web' as AssetType },
     { handle: 'ebay', name: 'eBay Security', maxBounty: 15000, type: 'web' as AssetType },
     { handle: 'atlassian', name: 'Atlassian Security', maxBounty: 15000, type: 'web' as AssetType },
-    { handle: 'pornhub', name: 'MindGeek (Pornhub)', maxBounty: 25000, type: 'web' as AssetType },
     { handle: 'tesla', name: 'Tesla', maxBounty: 15000, type: 'web' as AssetType },
     { handle: 'dropbox', name: 'Dropbox', maxBounty: 12716, type: 'web' as AssetType },
     { handle: 'wordpress', name: 'WordPress', maxBounty: 5400, type: 'web' as AssetType },
@@ -139,34 +138,7 @@ const scrapeBugcrowdPublic = async (): Promise<BugBounty[]> => {
 
 // =================== OPEN BUG BOUNTY ===================
 const scrapeOpenBugBounty = async (): Promise<BugBounty[]> => {
-  const bounties: BugBounty[] = []
-  // Open Bug Bounty è disclosure coordinata, non sempre a pagamento
-  // ma è un ottimo punto di partenza per huntare
-  const knownOpenPrograms = [
-    { domain: 'shopify.com', maxBounty: 1000 },
-    { domain: 'mailchimp.com', maxBounty: 500 },
-    { domain: 'moz.com', maxBounty: 500 },
-    { domain: 'craigslist.org', maxBounty: 0 },
-    { domain: 'soundcloud.com', maxBounty: 500 }
-  ]
-
-  for (const program of knownOpenPrograms) {
-    bounties.push({
-      id: `obb-${program.domain.replace(/\./g, '-')}`,
-      titolo: `${program.domain} - Open Bug Bounty`,
-      programma: 'Open Bug Bounty',
-      payout: program.maxBounty,
-      severita: 'medium',
-      assetType: 'web',
-      url: `https://www.openbugbounty.org/programs/${program.domain}/`,
-      descrizione: `Programma di responsible disclosure su Open Bug Bounty per ${program.domain}`,
-      dataCreazione: new Date().toISOString(),
-      tags: ['disclosure', 'openbugbounty', 'free'],
-      mission: generateGenericMission('web', program.domain, program.domain)
-    })
-  }
-
-  return bounties
+  return []
 }
 
 // =================== YESWEHACK ===================
@@ -366,7 +338,7 @@ const scrapeGitLabAdvisories = async (): Promise<BugBounty[]> => {
         payout: 0,
         severita: mapCVESeverity(adv.cvss_v3 ? parseFloat(adv.cvss_v3) : undefined),
         assetType: 'other',
-        url: `https://gitlab.com/${adv.path}`,
+        url: `https://gitlab.com/advisories/${adv.identifier || adv.id}`,
         descrizione: adv.description || 'GitLab Security Advisory',
         dataCreazione: adv.published_at || new Date().toISOString(),
         tags: ['gitlab', 'advisory', 'open-source'],
@@ -668,7 +640,7 @@ const getVerifiedPrograms = (): BugBounty[] => {
       payout: 40000,
       severita: 'critical',
       assetType: 'web',
-      url: 'https://www.facebook.com/whitehat',
+      url: 'https://hackerone.com/facebook',
       descrizione: 'Meta copre Facebook, Instagram, WhatsApp, Messenger, Oculus, Meta Quest. Focus su privacy bypass, account takeover, cross-product bugs',
       dataCreazione: new Date().toISOString(),
       tags: ['meta', 'facebook', 'instagram', 'whatsapp', 'high-payout'],
