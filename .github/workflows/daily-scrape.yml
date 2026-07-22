@@ -66,15 +66,14 @@ jobs:
       - name: 📈 Check for changes
         id: git-changes
         run: |
-          git diff --quiet HEAD -- public/bounties.json public/bounties-meta.json
+          git diff --quiet HEAD -- server/data/bounties.json server/data/metadata.json
           if [ $? -eq 0 ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ No changes detected in DB"
           else
             echo "changed=true" >> $GITHUB_OUTPUT
-            # Calcola diff stats
-            ADDED=$(git diff --numstat HEAD -- public/bounties.json | awk '{print $1}')
-            REMOVED=$(git diff --numstat HEAD -- public/bounties.json | awk '{print $2}')
+            ADDED=$(git diff --numstat HEAD -- server/data/bounties.json server/data/metadata.json | awk '{print $1}')
+            REMOVED=$(git diff --numstat HEAD -- server/data/bounties.json server/data/metadata.json | awk '{print $2}')
             echo "📊 Diff: +${ADDED} lines, -${REMOVED} lines"
           fi
 
