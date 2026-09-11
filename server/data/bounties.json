@@ -8,7 +8,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/twitter",
     "descrizione": "twitter public bug bounty program",
-    "dataCreazione": "2026-09-11T17:35:31.256Z",
+    "dataCreazione": "2026-09-11T17:41:00.470Z",
     "tags": [
       "public"
     ],
@@ -206,7 +206,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/amazon",
     "descrizione": "Amazon Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-09-11T17:35:30.572Z",
+    "dataCreazione": "2026-09-11T17:41:00.045Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -406,7 +406,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/ebay",
     "descrizione": "eBay Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -606,7 +606,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/atlassian",
     "descrizione": "Atlassian Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -806,7 +806,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/tesla",
     "descrizione": "Tesla managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1006,7 +1006,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/dropbox",
     "descrizione": "Dropbox managed bug bounty program su Bugcrowd con payout fino a $12716",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1206,7 +1206,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/wordpress",
     "descrizione": "WordPress managed bug bounty program su Bugcrowd con payout fino a $5400",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1406,7 +1406,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/bitdefender",
     "descrizione": "Bitdefender managed bug bounty program su Bugcrowd con payout fino a $10000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1606,7 +1606,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/rockstar",
     "descrizione": "Rockstar Games managed bug bounty program su Bugcrowd con payout fino a $10000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1806,7 +1806,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/asana",
     "descrizione": "Asana managed bug bounty program su Bugcrowd con payout fino a $5000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -2006,7 +2006,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/squarespace",
     "descrizione": "Squarespace managed bug bounty program su Bugcrowd con payout fino a $5000",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -2206,7 +2206,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/orange",
     "descrizione": "Orange European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2406,7 +2406,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/leboncoin",
     "descrizione": "Leboncoin European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2606,7 +2606,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/doctolib",
     "descrizione": "Doctolib European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2806,7 +2806,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/blablacar",
     "descrizione": "BlaBlaCar European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3006,7 +3006,7 @@
     "assetType": "infrastructure",
     "url": "https://yeswehack.com/programs/ovhcloud",
     "descrizione": "OVHcloud European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3167,7 +3167,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/decathlon",
     "descrizione": "Decathlon European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3367,7 +3367,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/netflix",
     "descrizione": "Netflix European bug bounty program su Intigriti",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "intigriti",
@@ -3567,7 +3567,7 @@
     "assetType": "api",
     "url": "https://intigriti.com/programs/paypal",
     "descrizione": "PayPal European bug bounty program su Intigriti",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "intigriti",
@@ -3751,7 +3751,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/microsoft",
     "descrizione": "Microsoft European bug bounty program su Intigriti",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "intigriti",
@@ -3951,7 +3951,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/visma",
     "descrizione": "Visma European bug bounty program su Intigriti",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "intigriti",
@@ -4151,7 +4151,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/colruyt",
     "descrizione": "Colruyt European bug bounty program su Intigriti",
-    "dataCreazione": "2026-09-11T17:35:30.574Z",
+    "dataCreazione": "2026-09-11T17:41:00.046Z",
     "tags": [
       "european",
       "intigriti",
@@ -13198,7 +13198,7 @@
     }
   },
   {
-    "id": "edb-1789148131017-0.1568042532397994",
+    "id": "edb-1789148460585-0.8415507034687162",
     "titolo": "[remote] CVE-2026-80428 Unauthenticated PHP Object Injection via Shibboleth - ILIAS &lt; 9.22, 10.0 &lt; 10.10, 11.0 &lt; 11.3 - RCE",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13334,7 +13334,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.7688939821021121",
+    "id": "edb-1789148460585-0.3070700444118608",
     "titolo": "[webapps] FreePBX  17.0.2 - Remote Code Execution (RCE)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13470,7 +13470,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.6948957876714437",
+    "id": "edb-1789148460585-0.14111897248206184",
     "titolo": "[webapps] Metabase 0.61.0  - Authenticated Remote Code Execution",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13606,7 +13606,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.04497057138637639",
+    "id": "edb-1789148460585-0.7716711383262904",
     "titolo": "[dos] EVerest 2025.9.0 - DoS",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13742,7 +13742,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.6852421858563201",
+    "id": "edb-1789148460585-0.5294111250758393",
     "titolo": "[webapps] Bludit CMS  3.20.0 - Reflected Cross-Site Scripting",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13878,7 +13878,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.8832794758235424",
+    "id": "edb-1789148460585-0.610012038674306",
     "titolo": "[webapps] PodcastGenerator 3.2.9 - Stored XSS",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14014,7 +14014,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.6203734668133585",
+    "id": "edb-1789148460585-0.17945721296955885",
     "titolo": "[webapps] Ghost_CMS 6.19.0  - Remote Code Execution",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14150,7 +14150,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.9568082728638705",
+    "id": "edb-1789148460585-0.748682386446782",
     "titolo": "[webapps] Langflow 1.10.0 - RCE",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14286,7 +14286,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.19860677093397183",
+    "id": "edb-1789148460585-0.8086567359808312",
     "titolo": "[hardware] Fullhan FH8626V100 - Multiple Vulnerabilities",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14422,7 +14422,7 @@
     }
   },
   {
-    "id": "edb-1789148131020-0.6875612093770536",
+    "id": "edb-1789148460585-0.01264601366979523",
     "titolo": "[webapps] Marimo  0.20.4 - RCE",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14558,7 +14558,7 @@
     }
   },
   {
-    "id": "rss-1789148131917-0.5772475083756008",
+    "id": "rss-1789148461282-0.46435686705914625",
     "titolo": "Microsoft Plugs Nearly 1,000 Security Holes",
     "programma": "Security News",
     "payout": 0,
@@ -14693,7 +14693,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.520395237477617",
+    "id": "rss-1789148461282-0.06892566591333815",
     "titolo": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "programma": "Security News",
     "payout": 0,
@@ -14828,7 +14828,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.4705867089918806",
+    "id": "rss-1789148461282-0.6187323299819092",
     "titolo": "Two Alleged &#8216;TeamPCP&#8217; Hackers Arrested in Australia",
     "programma": "Security News",
     "payout": 0,
@@ -14963,7 +14963,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.02232706219279279",
+    "id": "rss-1789148461282-0.6777199668566192",
     "titolo": "Who&#8217;s Tracking You? Use This New Service to Find Out",
     "programma": "Security News",
     "payout": 0,
@@ -15098,7 +15098,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.35337819518764146",
+    "id": "rss-1789148461282-0.35054986675010547",
     "titolo": "Microsoft Plugs Nearly 400 Security Holes",
     "programma": "Security News",
     "payout": 0,
@@ -15233,7 +15233,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.17559843659896524",
+    "id": "rss-1789148461282-0.4476582437554122",
     "titolo": "Student Loan Breach Exposes 2.5M Records",
     "programma": "Security News",
     "payout": 0,
@@ -15368,7 +15368,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.2033263754855411",
+    "id": "rss-1789148461282-0.799534547859875",
     "titolo": "Watering Hole Attacks Push ScanBox Keylogger",
     "programma": "Security News",
     "payout": 0,
@@ -15503,7 +15503,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.5036739818933507",
+    "id": "rss-1789148461282-0.6456407436618992",
     "titolo": "Tentacles of &#8216;0ktapus&#8217; Threat Group Victimize 130 Firms",
     "programma": "Security News",
     "payout": 0,
@@ -15638,7 +15638,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.4244043642400779",
+    "id": "rss-1789148461282-0.7580800857235803",
     "titolo": "Ransomware Attacks are on the Rise",
     "programma": "Security News",
     "payout": 0,
@@ -15773,7 +15773,7 @@
     }
   },
   {
-    "id": "rss-1789148131919-0.0837702719227682",
+    "id": "rss-1789148461282-0.9773270624775119",
     "titolo": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "programma": "Security News",
     "payout": 0,
@@ -15916,7 +15916,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/shopify",
     "descrizione": "Shopify gestisce milioni di negozi online. Focus su: XSS, IDOR, payment bypass, app vulnerabilities, admin panel access, API token leakage",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "shopify",
       "ecommerce",
@@ -16117,7 +16117,7 @@
     "assetType": "api",
     "url": "https://hackerone.com/paypal",
     "descrizione": "PayPal accetta bug su tutte le sue piattaforme. Focus su: payment bypass, account takeover, OAuth flaws, transaction manipulation, PII exposure",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "paypal",
       "payments",
@@ -16302,7 +16302,7 @@
     "assetType": "web",
     "url": "https://www.microsoft.com/en-us/msrc/bounty",
     "descrizione": "Microsoft bounty su Office 365, Azure, Teams, Windows, Bing, Edge. Reward fino a $100k per RCE su Azure",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "microsoft",
       "azure",
@@ -16503,7 +16503,7 @@
     "assetType": "mobile",
     "url": "https://developer.apple.com/security-bounty/",
     "descrizione": "Apple paga per bug in iOS, macOS, watchOS, tvOS, iCloud, Apple ID. Fino a $1M per lockpwn su iPhone",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "apple",
       "ios",
@@ -16677,7 +16677,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/netflix",
     "descrizione": "Netflix accetta report su servizi streaming, API, account management, content security, DRM bypass",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "netflix",
       "streaming",
@@ -16877,7 +16877,7 @@
     "assetType": "mobile",
     "url": "https://hackerone.com/uber",
     "descrizione": "Uber copre: rider app, driver app, eat app, freight, internal tools. Focus su location spoofing, payment bypass, driver impersonation",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "uber",
       "mobile",
@@ -17050,7 +17050,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/airbnb",
     "descrizione": "Airbnb copre accommodation platform, payments, host/guest interactions, calendar manipulation, listing approval bypass",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.704Z",
     "tags": [
       "airbnb",
       "hospitality",
@@ -17250,7 +17250,7 @@
     "assetType": "api",
     "url": "https://hackerone.com/coinbase",
     "descrizione": "Coinbase exchange accetta bug su web, mobile, API, wallet, exchange. Focus su crypto theft prevention, account takeover, withdrawal bypass",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "coinbase",
       "crypto",
@@ -17435,7 +17435,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/slack",
     "descrizione": "Slack accetta bug su: workspace security, message access, file sharing, OAuth apps, integration permissions",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "slack",
       "communication",
@@ -17635,7 +17635,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/twitter",
     "descrizione": "Twitter/X copre la piattaforma social, API, mobile app, account security, tweet manipulation, ad platform",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "twitter",
       "x",
@@ -17836,7 +17836,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/facebook",
     "descrizione": "Meta copre Facebook, Instagram, WhatsApp, Messenger, Oculus, Meta Quest. Focus su privacy bypass, account takeover, cross-product bugs",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "meta",
       "facebook",
@@ -18038,7 +18038,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/reddit",
     "descrizione": "Reddit copre la piattaforma social, mod tools, awards, ads, community management, user data",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "reddit",
       "social",
@@ -18238,7 +18238,7 @@
     "assetType": "web",
     "url": "https://bughunters.google.com/about/rules/5428186903732224/youtube-and-youtube-tv-vulnerability-reward-program",
     "descrizione": "YouTube via Google VRP. Focus su: account takeover, comment XSS, video privacy bypass, channel hijack, monetization bugs",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "youtube",
       "google",
@@ -18380,7 +18380,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/linkedin",
     "descrizione": "LinkedIn copre social network professionale, jobs, recruiter tools, premium features, OAuth, mobile app",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "linkedin",
       "social",
@@ -18581,7 +18581,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/dropbox",
     "descrizione": "Dropbox copre cloud storage, file sharing, sync client, OAuth, API, desktop & mobile apps",
-    "dataCreazione": "2026-09-11T17:35:33.681Z",
+    "dataCreazione": "2026-09-11T17:41:01.705Z",
     "tags": [
       "dropbox",
       "storage",

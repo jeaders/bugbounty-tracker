@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-11T17:35:33.752Z",
+  "lastUpdate": "2026-09-11T17:41:01.721Z",
   "totalBounties": 122,
   "totalPayout": 820169,
   "byProgram": {
@@ -22,5 +22,5 @@
     "low": 2,
     "critical": 27
   },
-  "scrapeDurationMs": 3301
+  "scrapeDurationMs": 1706
 }
