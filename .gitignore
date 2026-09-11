@@ -3,8 +3,6 @@ node_modules/
 
 # Build outputs
 dist/
-public/bounties.json
-public/bounties-meta.json
 
 # Environment
 .env
