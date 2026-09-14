@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-09-13T11:00:55.075Z",
-  "totalBounties": 122,
+  "lastUpdate": "2026-09-14T11:38:54.510Z",
+  "totalBounties": 117,
   "totalPayout": 820169,
   "byProgram": {
     "HackerOne": 11,
@@ -11,16 +11,16 @@
     "GitHub Security Advisories": 20,
     "CISA KEV": 15,
     "Exploit-DB": 10,
-    "Security News": 10,
+    "Security News": 5,
     "Apple Bug Bounty": 1,
     "Meta Bug Bounty": 1,
     "Google VRP": 1
   },
   "bySeverity": {
-    "medium": 40,
-    "high": 55,
-    "low": 1,
-    "critical": 26
+    "medium": 28,
+    "high": 57,
+    "critical": 31,
+    "low": 1
   },
-  "scrapeDurationMs": 2928
+  "scrapeDurationMs": 8077
 }
