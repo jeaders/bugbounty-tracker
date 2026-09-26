@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026-09-25T11:01:46.621Z",
-  "totalBounties": 96,
+  "lastUpdate": "2026-09-26T10:44:07.033Z",
+  "totalBounties": 122,
   "totalPayout": 820169,
   "byProgram": {
     "HackerOne": 11,
     "Bugcrowd": 11,
     "YesWeHack": 6,
     "Intigriti": 6,
-    "NVD CVE Database": 4,
+    "NVD CVE Database": 30,
     "GitHub Security Advisories": 20,
     "CISA KEV": 15,
     "Exploit-DB": 10,
@@ -17,10 +17,10 @@
     "Google VRP": 1
   },
   "bySeverity": {
-    "medium": 20,
-    "high": 51,
-    "low": 1,
-    "critical": 24
+    "medium": 30,
+    "high": 58,
+    "critical": 26,
+    "low": 8
   },
-  "scrapeDurationMs": 2158
+  "scrapeDurationMs": 2390
 }
