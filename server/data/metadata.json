@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-19T15:10:02.548Z",
+  "lastUpdate": "2026-11-20T14:49:52.002Z",
   "totalBounties": 122,
   "totalPayout": 820169,
   "byProgram": {
@@ -17,10 +17,9 @@
     "Google VRP": 1
   },
   "bySeverity": {
-    "medium": 25,
-    "high": 71,
-    "low": 1,
-    "critical": 25
+    "medium": 30,
+    "high": 66,
+    "critical": 26
   },
-  "scrapeDurationMs": 8003
+  "scrapeDurationMs": 1629
 }
