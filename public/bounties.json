@@ -8,7 +8,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/twitter",
     "descrizione": "twitter public bug bounty program",
-    "dataCreazione": "2026-11-26T16:18:15.544Z",
+    "dataCreazione": "2026-11-27T16:02:14.260Z",
     "tags": [
       "public"
     ],
@@ -206,7 +206,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/amazon",
     "descrizione": "Amazon Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-11-26T16:18:14.529Z",
+    "dataCreazione": "2026-11-27T16:02:13.829Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -406,7 +406,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/ebay",
     "descrizione": "eBay Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.829Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -606,7 +606,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/atlassian",
     "descrizione": "Atlassian Security managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -806,7 +806,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/tesla",
     "descrizione": "Tesla managed bug bounty program su Bugcrowd con payout fino a $15000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1006,7 +1006,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/dropbox",
     "descrizione": "Dropbox managed bug bounty program su Bugcrowd con payout fino a $12716",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1206,7 +1206,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/wordpress",
     "descrizione": "WordPress managed bug bounty program su Bugcrowd con payout fino a $5400",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1406,7 +1406,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/bitdefender",
     "descrizione": "Bitdefender managed bug bounty program su Bugcrowd con payout fino a $10000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1606,7 +1606,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/rockstar",
     "descrizione": "Rockstar Games managed bug bounty program su Bugcrowd con payout fino a $10000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -1806,7 +1806,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/asana",
     "descrizione": "Asana managed bug bounty program su Bugcrowd con payout fino a $5000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -2006,7 +2006,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/programs/squarespace",
     "descrizione": "Squarespace managed bug bounty program su Bugcrowd con payout fino a $5000",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "crowdsourced",
       "verified",
@@ -2206,7 +2206,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/orange",
     "descrizione": "Orange European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2406,7 +2406,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/leboncoin",
     "descrizione": "Leboncoin European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2606,7 +2606,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/doctolib",
     "descrizione": "Doctolib European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -2806,7 +2806,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/blablacar",
     "descrizione": "BlaBlaCar European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3006,7 +3006,7 @@
     "assetType": "infrastructure",
     "url": "https://yeswehack.com/programs/ovhcloud",
     "descrizione": "OVHcloud European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3167,7 +3167,7 @@
     "assetType": "web",
     "url": "https://yeswehack.com/programs/decathlon",
     "descrizione": "Decathlon European bug bounty program su YesWeHack",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "yeswehack",
@@ -3367,7 +3367,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/netflix",
     "descrizione": "Netflix European bug bounty program su Intigriti",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "intigriti",
@@ -3567,7 +3567,7 @@
     "assetType": "api",
     "url": "https://intigriti.com/programs/paypal",
     "descrizione": "PayPal European bug bounty program su Intigriti",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "intigriti",
@@ -3751,7 +3751,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/microsoft",
     "descrizione": "Microsoft European bug bounty program su Intigriti",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "intigriti",
@@ -3951,7 +3951,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/visma",
     "descrizione": "Visma European bug bounty program su Intigriti",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "intigriti",
@@ -4151,7 +4151,7 @@
     "assetType": "web",
     "url": "https://intigriti.com/programs/colruyt",
     "descrizione": "Colruyt European bug bounty program su Intigriti",
-    "dataCreazione": "2026-11-26T16:18:14.530Z",
+    "dataCreazione": "2026-11-27T16:02:13.830Z",
     "tags": [
       "european",
       "intigriti",
@@ -4343,15 +4343,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-102770",
-    "titolo": "CVE-2026-102770: Improper neutralization of special elements in data query logic (Cypher injection) in the fulltext a...",
+    "id": "nvd-CVE-2026-102769",
+    "titolo": "CVE-2026-102769: A SQL injection vulnerability when the recipient tapped on a specially crafted “order details” messa...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102770",
-    "descrizione": "Improper neutralization of special elements in data query logic (Cypher injection) in the fulltext and vector index query generator of the sharded property database in Neo4j Enterprise Edition 2026.07.0 before 2026.10.0 allows an authenticated user holding ACCESS, CREATE INDEX and NAME MANAGEMENT privileges to inject Cypher that is accepted for execution on a property shard, in the session of any user who later queries the index, via a crafted index name containing a single quote. The impact is bounded by the privileges of the querying user.",
-    "dataCreazione": "2026-11-19T16:18:15.013",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102769",
+    "descrizione": "A SQL injection vulnerability when the recipient tapped on a specially crafted “order details” message from an unofficial client in WhatsApp for Android prior to version 2.26.35.74 could have allowed deletion of locally-stored WhatsApp files and, only if the user is online at time of receipt, leaked one bit of information asked by the attacker about the user’s chat database via an induced-crash delivery receipt timing sidechannel. We have not seen evidence of exploitation in the wild.",
+    "dataCreazione": "2026-11-20T16:17:59.487",
     "tags": [
       "cve",
       "nvd",
@@ -4359,8 +4359,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-102770.com",
-        "API su api.cve-2026-102770.com",
+        "Tutti i domini *.cve-2026-102769.com",
+        "API su api.cve-2026-102769.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -4451,7 +4451,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-102770",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-102769",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -4479,15 +4479,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-109920",
-    "titolo": "CVE-2026-109920: Use of uninitialized memory when processing certain font files in X.Org libXfont before 2.0.10 could...",
+    "id": "nvd-CVE-2026-44908",
+    "titolo": "CVE-2026-44908: Improper following of a certificate’s chain of trust in the remote-attestation verifier used to esta...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109920",
-    "descrizione": "Use of uninitialized memory when processing certain font files in X.Org libXfont before 2.0.10 could be used by authenticated attackers to crash the X server.",
-    "dataCreazione": "2026-11-19T16:18:30.317",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44908",
+    "descrizione": "Improper following of a certificate’s chain of trust in the remote-attestation verifier used to establish trust with Meta AI's confidential computing backend in WhatsApp for iOS before 2.26.24.72, WhatsApp Business for iOS and WhatsApp for Mac Desktop before v2.26.23.72, WhatsApp for Android before v2.26.23.74, and WhatsApp Business for Android before v2.26.23.70 could have allowed someone positioned within Meta infrastructure to bypass the hardware root of trust by presenting clients with a VCEK certificate signed by a key other than the hardware manufacturer’s. Any such VCEK Cert would first have to be published to the third-party binary transparency ledger used by WhatsApp Private Processing. The ledger shows that every published VCEK certificate chains to the hardware root of trust, confirming no exploitation.",
+    "dataCreazione": "2026-11-20T16:18:04.707",
     "tags": [
       "cve",
       "nvd",
@@ -4495,8 +4495,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-109920.com",
-        "API su api.cve-2026-109920.com",
+        "Tutti i domini *.cve-2026-44908.com",
+        "API su api.cve-2026-44908.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -4587,7 +4587,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-109920",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-44908",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -4615,15 +4615,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-121592",
-    "titolo": "CVE-2026-121592: Mattermost Plugins versions <=12.-1 11.0.11 11.11.7 11.2.10.0 fail to check for a nil result after d...",
+    "id": "nvd-CVE-2026-115407",
+    "titolo": "CVE-2026-115407: In `github.com/eclipse-keypont/crypto11/v2` versions `<= 2.0.0-rc8` (and the deprecated v1 module pa...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-121592",
-    "descrizione": "Mattermost Plugins versions <=12.-1 11.0.11 11.11.7 11.2.10.0 fail to check for a nil result after decoding the HTTP request body which allows an authenticated user to crash the Zoom plugin process, causing denial of service, via sending a JSON null body to the plugin's action endpoints. Mattermost Advisory ID: MMSA-2026-00722",
-    "dataCreazione": "2026-11-19T16:19:27.443",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-115407",
+    "descrizione": "In `github.com/eclipse-keypont/crypto11/v2` versions `<= 2.0.0-rc8` (and the deprecated v1 module paths `github.com/eclipse-keypont/crypto11 <= 1.6.8`, `github.com/ThalesGroup/crypto11 <= 1.7.0-rc1` and `github.com/ThalesIgnite/crypto11 <= 1.2.5`), the `cipher.AEAD` returned by `SecretKey.NewGCM()` passes whatever nonce it is given straight to `CK_GCM_PARAMS` without checking its length against `NonceSize()`, and accepts an empty nonce. On a token that accepts a zero-length GCM IV — SoftHSM2 does — every `Seal` with an empty nonce encrypts under the same IV, reusing the keystream and exposing the GHASH authentication key, which allows forgeries. Separately, `Config.UseGCMIVFromHSM` sends a NULL IV with length zero to the token unless `GCMIVFromHSMControl.SupplyIvForHSMGCMEncrypt` is also set, so the token has nowhere to write the IV it generates: a `Seal` with a non-empty nonce panics after the plaintext has already been encrypted, and a `Seal` with an empty nonce returns ciphertext under an empty IV without error. On the v1 line HSM-IV mode additionally never copies the token-generated IV back to the caller, so the caller keeps its own nonce while the data was encrypted under another one.",
+    "dataCreazione": "2026-11-20T17:18:07.373",
     "tags": [
       "cve",
       "nvd",
@@ -4631,8 +4631,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-121592.com",
-        "API su api.cve-2026-121592.com",
+        "Tutti i domini *.cve-2026-115407.com",
+        "API su api.cve-2026-115407.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -4723,7 +4723,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-121592",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-115407",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -4751,695 +4751,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-121593",
-    "titolo": "CVE-2026-121593: Mattermost Plugins versions <=12.-1 11.0.11 11.11.7 11.2.10.0 fail to verify that the caller can pos...",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-121593",
-    "descrizione": "Mattermost Plugins versions <=12.-1 11.0.11 11.11.7 11.2.10.0 fail to verify that the caller can post in a run's channel when executing a checklist slash command which allows an authenticated run participant to post arbitrary messages into a private channel they are not a member of via the checklist item run endpoint. Mattermost Advisory ID: MMSA-2026-00730",
-    "dataCreazione": "2026-11-19T16:19:27.587",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-121593.com",
-        "API su api.cve-2026-121593.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-121593",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-121594",
-    "titolo": "CVE-2026-121594: Mattermost Plugins versions <=12.-1 11.11.7 11.2.10 11.1.11.0 fail to enforce the GitLab project per...",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-121594",
-    "descrizione": "Mattermost Plugins versions <=12.-1 11.11.7 11.2.10 11.1.11.0 fail to enforce the GitLab project permission check for confidential issues when the project is publicly visible which allows an authenticated user with no GitLab membership in the project to obtain the contents of confidential issues, including title, description, author, and URL via subscribing a channel to the parent public GitLab group with the confidential_issues feature and waiting for a confidential issue webhook event. Mattermost Advisory ID: MMSA-2026-00738",
-    "dataCreazione": "2026-11-19T16:19:27.717",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-121594.com",
-        "API su api.cve-2026-121594.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-121594",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-123146",
-    "titolo": "CVE-2026-123146: Rejected reason: Inline mitigations exists.",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123146",
-    "descrizione": "Rejected reason: Inline mitigations exists.",
-    "dataCreazione": "2026-11-19T16:19:32.003",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-123146.com",
-        "API su api.cve-2026-123146.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-123146",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-127925",
-    "titolo": "CVE-2026-127925: Rejected reason: Inline mitigations exists.",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-127925",
-    "descrizione": "Rejected reason: Inline mitigations exists.",
-    "dataCreazione": "2026-11-19T16:19:45.793",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-127925.com",
-        "API su api.cve-2026-127925.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-127925",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-128884",
-    "titolo": "CVE-2026-128884: Rejected reason: Inline mitigations exists.",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-128884",
-    "descrizione": "Rejected reason: Inline mitigations exists.",
-    "dataCreazione": "2026-11-19T16:19:45.853",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-128884.com",
-        "API su api.cve-2026-128884.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-128884",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-131807",
-    "titolo": "CVE-2026-131807: United Chargers Grizzl-E Smart 40A OCPP GetConfiguration Stack-based Buffer Overflow Remote Code Exe...",
+    "id": "nvd-CVE-2026-122244",
+    "titolo": "CVE-2026-122244: Budibase is an open-source low-code platform. Prior to 3.50.0, a BASIC application user, or an unaut...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131807",
-    "descrizione": "United Chargers Grizzl-E Smart 40A OCPP GetConfiguration Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of OCPP messages. When parsing GetConfiguration requests, the process does not properly validate the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the device. Was ZDI-CAN-28968.",
-    "dataCreazione": "2026-11-19T16:20:09.180",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-122244",
+    "descrizione": "Budibase is an open-source low-code platform. Prior to 3.50.0, a BASIC application user, or an unauthenticated visitor to a public write form, can store markup in a shared external datasource that a builder or administrator later evaluates in any Handlebars binding Preview that surfaces the value, including the Data-section Formula column editor or any binding drawer. jsonFormatter.format() in packages/frontend-core/src/utils/jsonFormatter.ts leaves raw strings and object keys unescaped, while packages/builder/src/components/common/bindings/EvaluationSidePanel.svelte inserts the formatted result as raw HTML. The Handlebars SafeString path preserves the attacker-controlled value, and the Builder origin lacks a Content-Security-Policy that would block the resulting script. This permits stored script execution in the higher-privileged builder or administrator session rather than the writer's own role, allowing privileged Builder API actions and workspace data access. This issue is fixed in versions 3.50.0 and 4.0.0.",
+    "dataCreazione": "2026-11-20T17:18:07.970",
     "tags": [
       "cve",
       "nvd",
@@ -5447,8 +4767,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131807.com",
-        "API su api.cve-2026-131807.com",
+        "Tutti i domini *.cve-2026-122244.com",
+        "API su api.cve-2026-122244.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -5539,7 +4859,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131807",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-122244",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -5567,151 +4887,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-131808",
-    "titolo": "CVE-2026-131808: United Chargers Grizzl-E Smart 40A Wi-Fi Configuration Server Missing Authentication Vulnerability. ...",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131808",
-    "descrizione": "United Chargers Grizzl-E Smart 40A Wi-Fi Configuration Server Missing Authentication Vulnerability. This vulnerability allows network-adjacent attackers to modify Wi-Fi configuration on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of Wi-Fi configuration requests. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the device. Was ZDI-CAN-29068.",
-    "dataCreazione": "2026-11-19T16:20:09.307",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-131808.com",
-        "API su api.cve-2026-131808.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131808",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-131809",
-    "titolo": "CVE-2026-131809: United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Authentication Bypass Vulnerability. T...",
+    "id": "nvd-CVE-2026-122247",
+    "titolo": "CVE-2026-122247: Budibase is an open-source low-code platform. Prior to 3.50.0, the public POST /api/global/users/ini...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131809",
-    "descrizione": "United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Authentication Bypass Vulnerability. This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of OCPP backend configuration requests. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the device. Was ZDI-CAN-29063.",
-    "dataCreazione": "2026-11-19T16:20:09.430",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-122247",
+    "descrizione": "Budibase is an open-source low-code platform. Prior to 3.50.0, the public POST /api/global/users/init endpoint on a self-hosted single-tenant deployment accepts an attacker-controlled tenantId and evaluates checkAnyUserExists() in the selected tenant database instead of the legitimate default tenant. An unauthenticated attacker can select an unused tenant namespace to bypass the one-time initialization guard, causing packages/worker/src/api/controllers/global/users.ts to create a tenant-specific CouchDB database and a global-administrator document without a session or CSRF token. Repeating this operation with unique tenant identifiers can exhaust datastore resources and leave latent privileged records. The created administrator cannot log into the default tenant while multi-tenancy remains disabled, which limits the immediate impact to persistent writes, denial of service, and records that may become usable during later multi-tenant operation or migration. This issue is fixed in versions 3.50.0 and 4.0.0.",
+    "dataCreazione": "2026-11-20T17:18:08.170",
     "tags": [
       "cve",
       "nvd",
@@ -5719,8 +4903,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131809.com",
-        "API su api.cve-2026-131809.com",
+        "Tutti i domini *.cve-2026-122247.com",
+        "API su api.cve-2026-122247.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -5811,7 +4995,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131809",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-122247",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -5839,15 +5023,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-131810",
-    "titolo": "CVE-2026-131810: United Chargers Grizzl-E Smart 40A Download of Code Without Integrity Check Remote Code Execution Vu...",
+    "id": "nvd-CVE-2026-132275",
+    "titolo": "CVE-2026-132275: svglib reads SVG files and converts them to other formats. Prior to 2.3.1, the svg2rlg() renderer re...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131810",
-    "descrizione": "United Chargers Grizzl-E Smart 40A Download of Code Without Integrity Check Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of OCPP messages. The issue results from the lack of proper verification of firmware integrity prior to installation. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the device. Was ZDI-CAN-28957.",
-    "dataCreazione": "2026-11-19T16:20:09.543",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132275",
+    "descrizione": "svglib reads SVG files and converts them to other formats. Prior to 2.3.1, the svg2rlg() renderer recursively expands nested SVG <use> references by deep-copying each referenced subtree; SvgRenderer.renderUse() in src/svglib/svglib.py calls xlink_href_target(), which rejects direct cycles but permits acyclic reference graphs with repeated fan-out. A small attacker-controlled SVG can therefore trigger exponentially increasing node expansion, consuming excessive CPU and memory in any application that renders it without a non-default option; HTML-to-PDF workflows using xhtml2pdf can reach the same renderer when an embedded data:image/svg+xml image in an HTML img element is passed to pisa.CreatePDF(). This issue is fixed in 2.3.1.",
+    "dataCreazione": "2026-11-20T17:18:12.567",
     "tags": [
       "cve",
       "nvd",
@@ -5855,8 +5039,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131810.com",
-        "API su api.cve-2026-131810.com",
+        "Tutti i domini *.cve-2026-132275.com",
+        "API su api.cve-2026-132275.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -5947,7 +5131,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131810",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-132275",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -5975,15 +5159,287 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-131811",
-    "titolo": "CVE-2026-131811: United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Hard-Coded Credentials Authentication ...",
+    "id": "nvd-CVE-2026-132276",
+    "titolo": "CVE-2026-132276: wcmatch is a Python library for wildcard file-name matching. Prior to 11.2, under the default flags,...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132276",
+    "descrizione": "wcmatch is a Python library for wildcard file-name matching. Prior to 11.2, under the default flags, matching a non-matching attacker-controlled name against an application-supplied pattern containing several star wildcards separated by literals makes the lazy .? and [^/]? segments, including _STAR and _PATH_STAR emitted by _handle_star() in wcmatch/_wcparse.py, backtrack across possible splits, so a single comparison can consume prolonged CPU time. The pattern remains a developer-controlled constant and only the name is attacker-controlled; affected paths include fnmatch.fnmatch(), glob.globmatch(), and filesystem glob scans where another user can create names, without enabling extglob or any non-default flag. This issue is fixed in 11.2.",
+    "dataCreazione": "2026-11-20T17:18:12.723",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-132276.com",
+        "API su api.cve-2026-132276.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-132276",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-132277",
+    "titolo": "CVE-2026-132277: Inscriptis is a Python library for converting HTML to text. From 2.0.0 until 2.7.6, when the parent ...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132277",
+    "descrizione": "Inscriptis is a Python library for converting HTML to text. From 2.0.0 until 2.7.6, when the parent is block-level, table_end_handler() in model/tag/table_tag.py writes each sibling table through HtmlElement.write_verbatim_text() in model/html_element.py; Canvas.open_block() leaves the parent padding_inline prefix on the stack, Canvas.close_block() does not remove it, and only Canvas.close_tag() calls prefix.remove_last_prefix(). Each following sibling table therefore carries forward accumulated indentation, making get_text() output grow quadratically and allowing small attacker-controlled HTML to exhaust memory in applications converting it without authentication or user interaction. This issue is fixed in 2.7.6.",
+    "dataCreazione": "2026-11-20T17:18:12.893",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-132277.com",
+        "API su api.cve-2026-132277.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-132277",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-133199",
+    "titolo": "CVE-2026-133199: Incorrect privilege assignment in the user and group reconciliation logic in AWS ssosync before 2.9....",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131811",
-    "descrizione": "United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Hard-Coded Credentials Authentication Bypass Vulnerability. This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the configuration of the OCPP backend settings interface. The issue results from the use of hard-coded credentials. An attacker can leverage this vulnerability in conjunction with other vulnerabilities to execute arbitrary code in the context of the device. Was ZDI-CAN-29056.",
-    "dataCreazione": "2026-11-19T16:20:09.660",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133199",
+    "descrizione": "Incorrect privilege assignment in the user and group reconciliation logic in AWS ssosync before 2.9.5 might allow an authenticated remote user who is assigned a reused Google Workspace e-mail address or group name to inherit the IAM Identity Center group memberships and permission set assignments of a previously synchronized, unrelated identity, via automatic synchronization of that Google Workspace account or group.\n\n\n\nTo remediate this issue, users should upgrade to version 2.9.5 or later.",
+    "dataCreazione": "2026-11-20T17:18:17.783",
     "tags": [
       "cve",
       "nvd",
@@ -5991,8 +5447,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131811.com",
-        "API su api.cve-2026-131811.com",
+        "Tutti i domini *.cve-2026-133199.com",
+        "API su api.cve-2026-133199.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6083,7 +5539,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131811",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133199",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6111,15 +5567,151 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-131812",
-    "titolo": "CVE-2026-131812: United Chargers Grizzl-E Smart 40A FTP URL Path Parsing Stack-based Buffer Overflow Remote Code Exec...",
+    "id": "nvd-CVE-2026-133871",
+    "titolo": "CVE-2026-133871: Pydici through 2026.11.1 contains a stored cross-site scripting vulnerability that allows authentica...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133871",
+    "descrizione": "Pydici through 2026.11.1 contains a stored cross-site scripting vulnerability that allows authenticated users to inject script by storing HTML in contact names rendered unescaped in the contact detail mermaid diagram. Attackers with contact edit permission can store malicious markup that Contact.relationData() interpolates and contact_detail.html renders with the safe filter, executing script in victims' sessions.",
+    "dataCreazione": "2026-11-20T17:18:24.103",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-133871.com",
+        "API su api.cve-2026-133871.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133871",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-133872",
+    "titolo": "CVE-2026-133872: LessPass self-hosted sync server backend before commit 9469b0c lacks rate limiting on the JWT login ...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131812",
-    "descrizione": "United Chargers Grizzl-E Smart 40A FTP URL Path Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the parsing of FTP URL paths during firmware updates. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the device. Was ZDI-CAN-28960.",
-    "dataCreazione": "2026-11-19T16:20:09.793",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133872",
+    "descrizione": "LessPass self-hosted sync server backend before commit 9469b0c lacks rate limiting on the JWT login endpoints /tokens/auth/ and /auth/jwt/create/, allowing unlimited authentication attempts. Unauthenticated remote attackers can brute force passwords or perform credential stuffing against known account emails to obtain tokens granting read and write access to stored profiles.",
+    "dataCreazione": "2026-11-20T17:18:24.293",
     "tags": [
       "cve",
       "nvd",
@@ -6127,8 +5719,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131812.com",
-        "API su api.cve-2026-131812.com",
+        "Tutti i domini *.cve-2026-133872.com",
+        "API su api.cve-2026-133872.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6219,7 +5811,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131812",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133872",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6247,15 +5839,151 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-131813",
-    "titolo": "CVE-2026-131813: United Chargers Grizzl-E Smart 40A OCPP UpdateFirmware Out-Of-Bounds Write Remote Code Execution Vul...",
+    "id": "nvd-CVE-2026-133873",
+    "titolo": "CVE-2026-133873: Cloud Mail before 3.6.0 contains a stored cross-site scripting vulnerability in attService.addAtt th...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133873",
+    "descrizione": "Cloud Mail before 3.6.0 contains a stored cross-site scripting vulnerability in attService.addAtt that allows unauthenticated attackers to store inline attachments with sender-supplied MIME types. Attackers can email SVG or HTML attachments, compute the content-hash URL under /oss/ or /attachments/, and steal session JWTs from localStorage to hijack accounts including administrators.",
+    "dataCreazione": "2026-11-20T17:18:24.467",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-133873.com",
+        "API su api.cve-2026-133873.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133873",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-133874",
+    "titolo": "CVE-2026-133874: Iceburg CRM through 5.0.0 contains an incorrect authorization vulnerability in Module::saveRecord() ...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131813",
-    "descrizione": "United Chargers Grizzl-E Smart 40A OCPP UpdateFirmware Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of OCPP UpdateFirmware requests. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the device. Was ZDI-CAN-29487.",
-    "dataCreazione": "2026-11-19T16:20:10.217",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133874",
+    "descrizione": "Iceburg CRM through 5.0.0 contains an incorrect authorization vulnerability in Module::saveRecord() that allows authenticated users to write to unauthorized modules by prefixing request body keys with another module id. Attackers with write access to one module can submit crafted requests to POST /data/save or PUT /api/crm/{id} to set their role_id to Admin and access administrative data.",
+    "dataCreazione": "2026-11-20T17:18:24.647",
     "tags": [
       "cve",
       "nvd",
@@ -6263,8 +5991,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-131813.com",
-        "API su api.cve-2026-131813.com",
+        "Tutti i domini *.cve-2026-133874.com",
+        "API su api.cve-2026-133874.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6355,7 +6083,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-131813",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133874",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6383,15 +6111,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-132151",
-    "titolo": "CVE-2026-132151: Rejected reason: Reason for rejection.",
+    "id": "nvd-CVE-2026-133875",
+    "titolo": "CVE-2026-133875: one-hub through 0.14.27 contains a server-side request forgery vulnerability in GetImageFromUrl in c...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132151",
-    "descrizione": "Rejected reason: Reason for rejection.",
-    "dataCreazione": "2026-11-19T16:20:13.570",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133875",
+    "descrizione": "one-hub through 0.14.27 contains a server-side request forgery vulnerability in GetImageFromUrl in common/image/image.go that fetches vision chat image_url values without destination restrictions. Attackers holding a standard non-admin API token can send crafted /v1/chat/completions requests via Claude, OpenRouter or Ollama providers to reach internal services or cloud metadata endpoints.",
+    "dataCreazione": "2026-11-20T17:18:24.820",
     "tags": [
       "cve",
       "nvd",
@@ -6399,8 +6127,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-132151.com",
-        "API su api.cve-2026-132151.com",
+        "Tutti i domini *.cve-2026-133875.com",
+        "API su api.cve-2026-133875.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6491,7 +6219,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-132151",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133875",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6519,15 +6247,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133059",
-    "titolo": "CVE-2026-133059: A flaw was found in Moodle. The grade feedback web service does not properly verify group and course...",
+    "id": "nvd-CVE-2026-133876",
+    "titolo": "CVE-2026-133876: Kartones flask-calendar before commit bfde72e contains a stored cross-site scripting vulnerability b...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133059",
-    "descrizione": "A flaw was found in Moodle. The grade feedback web service does not properly verify group and course enrolment permissions. An authenticated user with non-editing teacher privileges can exploit this vulnerability to access grade feedback and user profile details across groups or courses they are not authorized to view, leading to unauthorized information disclosure.",
-    "dataCreazione": "2026-11-19T16:21:19.477",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133876",
+    "descrizione": "Kartones flask-calendar before commit bfde72e contains a stored cross-site scripting vulnerability because task_details_for_markup returns unescaped content rendered with the |safe filter. Authenticated shared calendar members can store script in task details that executes for other members, letting attackers read and modify their private calendars.",
+    "dataCreazione": "2026-11-20T17:18:24.997",
     "tags": [
       "cve",
       "nvd",
@@ -6535,8 +6263,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133059.com",
-        "API su api.cve-2026-133059.com",
+        "Tutti i domini *.cve-2026-133876.com",
+        "API su api.cve-2026-133876.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6627,7 +6355,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133059",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133876",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6655,15 +6383,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133060",
-    "titolo": "CVE-2026-133060: A flaw was found in Moodle's Blackboard question import format. Insufficient validation of file path...",
+    "id": "nvd-CVE-2026-133878",
+    "titolo": "CVE-2026-133878: Mattermost versions 11.11.x <= 11.11.1, 11.7.x <= 11.7.14, 11.10.x <= 11.10.4 fail to restrict the b...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133060",
-    "descrizione": "A flaw was found in Moodle's Blackboard question import format. Insufficient validation of file paths during the question import process allows an authenticated user with permissions to import questions into a question bank to read arbitrary files accessible to the web server process. An attacker could leverage this vulnerability to view sensitive files, resulting in unauthorized information disclosure.",
-    "dataCreazione": "2026-11-19T16:21:19.610",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133878",
+    "descrizione": "Mattermost versions 11.11.x <= 11.11.1, 11.7.x <= 11.7.14, 11.10.x <= 11.10.4 fail to restrict the broadcast scope of group WebSocket events to sessions permitted to read the group which allows an authenticated user, including guests, to obtain the display name, description, member count and member IDs of non-referenceable groups via the received_group event emitted when a group is created, updated, deleted or restored. Mattermost Advisory ID: MMSA-2026-00731",
+    "dataCreazione": "2026-11-20T17:18:25.167",
     "tags": [
       "cve",
       "nvd",
@@ -6671,8 +6399,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133060.com",
-        "API su api.cve-2026-133060.com",
+        "Tutti i domini *.cve-2026-133878.com",
+        "API su api.cve-2026-133878.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -6763,7 +6491,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133060",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133878",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -6791,151 +6519,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133061",
-    "titolo": "CVE-2026-133061: A flaw was found in Moodle. Due to a missing capability check in the grade items web service, an aut...",
-    "programma": "NVD CVE Database",
-    "payout": 0,
-    "severita": "medium",
-    "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133061",
-    "descrizione": "A flaw was found in Moodle. Due to a missing capability check in the grade items web service, an authenticated user with a student role can view the names of all grade items in a course, including those intended to be hidden. This flaw leads to unauthorized information disclosure of hidden course assessment details.",
-    "dataCreazione": "2026-11-19T16:21:19.740",
-    "tags": [
-      "cve",
-      "nvd",
-      "vulnerability-research"
-    ],
-    "mission": {
-      "scope": [
-        "Tutti i domini *.cve-2026-133061.com",
-        "API su api.cve-2026-133061.com",
-        "App mobile su Google Play / App Store"
-      ],
-      "outOfScope": [
-        "Attacchi DDoS / volumetrici",
-        "Social engineering su dipendenti",
-        "Test su ambienti di produzione con dati reali di utenti",
-        "Spam o invio massivo di contenuti",
-        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
-        "Rate limiting issues senza impatto reale",
-        "Self-XSS (richiede azione della vittima)",
-        "Vulnerabilità che richiedono accesso fisico al device",
-        "Clickjacking su pagine senza azioni sensibili",
-        "Best practice senza impatto dimostrabile",
-        "Username/email enumeration su form pubblici",
-        "CSRF su endpoint non state-changing",
-        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
-        "Problemi di SPF/DKIM/DMARC",
-        "Mixed content warnings su pagine non autenticabili"
-      ],
-      "owaspCategories": [
-        "A01:2021 - Broken Access Control",
-        "A02:2021 - Cryptographic Failures",
-        "A03:2021 - Injection (SQL, NoSQL, OS)",
-        "A04:2021 - Insecure Design",
-        "A05:2021 - Security Misconfiguration",
-        "A07:2021 - Identification and Authentication Failures"
-      ],
-      "testingTechniques": [
-        {
-          "name": "Analisi Generica",
-          "description": "Approccio metodico di bug hunting su tecnologia custom",
-          "steps": [
-            "Identifica tutte le superfici di input/output",
-            "Mappa flusso dati end-to-end",
-            "Testa ogni input con fuzzing (boofuzz, radamsa)",
-            "Verifica configurazioni di default e credenziali",
-            "Documenta ogni anomalia con PoC riproducibile"
-          ]
-        }
-      ],
-      "rewardsBySeverity": [
-        {
-          "severity": "critical",
-          "min": 5000,
-          "max": 50000,
-          "bonus": "Bonus reputazione + Hall of Fame"
-        },
-        {
-          "severity": "high",
-          "min": 1500,
-          "max": 10000,
-          "bonus": "Hall of Fame"
-        },
-        {
-          "severity": "medium",
-          "min": 500,
-          "max": 2500
-        },
-        {
-          "severity": "low",
-          "min": 100,
-          "max": 500
-        },
-        {
-          "severity": "informational",
-          "min": 0,
-          "max": 100,
-          "bonus": "Solo se impatto dimostrabile"
-        }
-      ],
-      "reportingSteps": [
-        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
-        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
-        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
-        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
-        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
-        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
-        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
-        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
-        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
-        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
-      ],
-      "toolsRecommended": [
-        "Burp Suite",
-        "nmap",
-        "Wireshark",
-        "browser DevTools",
-        "curl/wget"
-      ],
-      "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133061",
-        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
-        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
-        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
-        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
-        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
-        "Step 7: Documenta OGNI cosa interessante",
-        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
-        "Step 9: Submeti e rispondi velocemente a domande del triage",
-        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
-      ],
-      "estimatedTimeToFirstReport": "20-40 ore",
-      "difficulty": "intermediate",
-      "tips": [
-        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
-        "💡 Concentrati su UN programma per almeno 2 settimane",
-        "💡 Le business logic bug pagano DI PIÙ delle XSS",
-        "💡 I bug race condition sono sottovalutati ma pagati",
-        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
-        "💡 Controlla sempre le API mobile vs web",
-        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
-        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
-        "💡 La qualità del report > quantità",
-        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
-      ]
-    }
-  },
-  {
-    "id": "nvd-CVE-2026-133062",
-    "titolo": "CVE-2026-133062: A flaw was found in Moodle's external database enrolment plugin. Insufficient sanitization of data p...",
+    "id": "nvd-CVE-2026-133879",
+    "titolo": "CVE-2026-133879: A flaw was found in KubeVirt/containerized-data-importer. When a VirtualMachine with an embedded Dat...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133062",
-    "descrizione": "A flaw was found in Moodle's external database enrolment plugin. Insufficient sanitization of data passed to queries against the external database allows an authenticated user with course editing permissions to perform a Structured Query Language (SQL) injection attack. When this non-default plugin is enabled, an attacker can exploit this issue to view, modify, or delete sensitive records within the connected external database.",
-    "dataCreazione": "2026-11-19T16:21:19.867",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133879",
+    "descrizione": "A flaw was found in KubeVirt/containerized-data-importer. When a VirtualMachine with an embedded DataVolumeTemplate carrying the cdi.kubevirt.io/storage.checkStaticVolume annotation and a cross-namespace clone source is created by a tenant, the service-account clone authorization check can be bypassed, allowing a PVC from another namespace to be cloned into the tenant's namespace without the required permissions. This can result in cross-tenant data disclosure.",
+    "dataCreazione": "2026-11-20T17:18:25.317",
     "tags": [
       "cve",
       "nvd",
@@ -6943,8 +6535,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133062.com",
-        "API su api.cve-2026-133062.com",
+        "Tutti i domini *.cve-2026-133879.com",
+        "API su api.cve-2026-133879.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7035,7 +6627,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133062",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133879",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7063,15 +6655,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133063",
-    "titolo": "CVE-2026-133063: A flaw was found in Moodle. Due to insufficient validation when saving activity settings, an authent...",
+    "id": "nvd-CVE-2026-23871",
+    "titolo": "CVE-2026-23871: Incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for An...",
     "programma": "NVD CVE Database",
     "payout": 0,
-    "severita": "medium",
+    "severita": "low",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133063",
-    "descrizione": "A flaw was found in Moodle. Due to insufficient validation when saving activity settings, an authenticated user with teacher privileges can modify activities in courses they are not authorized to access. This flaw allows unauthorized changes to course materials, compromising the integrity of course content.",
-    "dataCreazione": "2026-11-19T16:21:19.993",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-23871",
+    "descrizione": "Incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4 could have caused a target's device to reveal its IP information to an attacker if an attacker sent media from an attacker-controlled URL when a crafted Click to WhatsApp ad-reply message was rendered and displayed in a message thread. This issue may have been abused in conjunction with specific spam messages.",
+    "dataCreazione": "2026-11-20T17:18:25.933",
     "tags": [
       "cve",
       "nvd",
@@ -7079,8 +6671,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133063.com",
-        "API su api.cve-2026-133063.com",
+        "Tutti i domini *.cve-2026-23871.com",
+        "API su api.cve-2026-23871.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7171,7 +6763,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133063",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-23871",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7199,15 +6791,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133064",
-    "titolo": "CVE-2026-133064: A flaw was found in Moodle. Insufficient sanitization of objective identifiers in the SCORM (Sharabl...",
+    "id": "nvd-CVE-2026-77329",
+    "titolo": "CVE-2026-77329: Tapo provides Rust and Python APIs and an MCP server for TP-Link Tapo smart devices. From 0.3.1 unti...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133064",
-    "descrizione": "A flaw was found in Moodle. Insufficient sanitization of objective identifiers in the SCORM (Sharable Content Object Reference Model) objectives report allows an authenticated user with content upload permissions to inject malicious scripts. When another user views the report, the injected script executes in their browser session, potentially allowing the attacker to access sensitive information or perform unauthorized actions on their behalf.",
-    "dataCreazione": "2026-11-19T16:21:20.117",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77329",
+    "descrizione": "Tapo provides Rust and Python APIs and an MCP server for TP-Link Tapo smart devices. From 0.3.1 until 0.5.0, the Streamable HTTP implementation in tapo-mcp/src/server.rs calls disable_allowed_hosts() without replacement Host or Origin validation, while TAPO_MCP_API_KEY remains optional for a listener that can bind to all interfaces. A malicious website can use DNS rebinding to send same-origin browser requests to the victim's local or LAN Tapo MCP listener when it runs without an API key. The attacker can invoke exposed tools including control_device for smart-device actuation and take_snapshot for configured cameras. Deployments with TAPO_MCP_API_KEY set are not affected by the unauthenticated path, and exploitation requires a running listener configured with real Tapo credentials and devices, plus victim interaction with the malicious site. This issue is fixed in version 0.5.0.",
+    "dataCreazione": "2026-11-20T17:18:26.917",
     "tags": [
       "cve",
       "nvd",
@@ -7215,8 +6807,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133064.com",
-        "API su api.cve-2026-133064.com",
+        "Tutti i domini *.cve-2026-77329.com",
+        "API su api.cve-2026-77329.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7307,7 +6899,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133064",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-77329",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7335,15 +6927,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133065",
-    "titolo": "CVE-2026-133065: A flaw was found in Moodle. Due to insufficient permission checks and input validation in the quiz q...",
+    "id": "nvd-CVE-2026-77331",
+    "titolo": "CVE-2026-77331: memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. Fro...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133065",
-    "descrizione": "A flaw was found in Moodle. Due to insufficient permission checks and input validation in the quiz question bank callback, an authenticated user can access and view questions from question banks they do not have permission to access. Furthermore, this issue allows users to trigger arbitrary class instantiation (creating unintended application objects), potentially leading to further unauthorized actions.",
-    "dataCreazione": "2026-11-19T16:21:20.240",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77331",
+    "descrizione": "memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. From 0.1.2 until 0.1.34, concurrent surfacing RPC failures can start more than one reconnect for the same dirty session because concurrent LTM recovery is not uniquely owned by a session generation. Cancellation during a post-reconnect retry can also leave the replacement transport reusable after an interrupted protocol exchange, causing session-state integrity loss or local service degradation. The duplicate-reconnect subcase was introduced in 0.1.24, while the cancellation-recovery subcase affects the broader listed range. This issue is fixed in version 0.1.34.",
+    "dataCreazione": "2026-11-20T17:18:27.080",
     "tags": [
       "cve",
       "nvd",
@@ -7351,8 +6943,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133065.com",
-        "API su api.cve-2026-133065.com",
+        "Tutti i domini *.cve-2026-77331.com",
+        "API su api.cve-2026-77331.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7443,7 +7035,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133065",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-77331",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7471,15 +7063,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133066",
-    "titolo": "CVE-2026-133066: A flaw was found in Moodle. Missing ownership verification in Feedback activity templates allows an ...",
+    "id": "nvd-CVE-2026-77332",
+    "titolo": "CVE-2026-77332: memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. Fro...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133066",
-    "descrizione": "A flaw was found in Moodle. Missing ownership verification in Feedback activity templates allows an authenticated teacher to view, use, or delete templates associated with courses other than their own. This can result in unauthorized access, modification, or deletion of course materials.",
-    "dataCreazione": "2026-11-19T16:21:20.367",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77332",
+    "descrizione": "memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. From 0.1.0 until 0.1.34, untrusted long-term and working-memory fields can introduce Markdown or HTML-compatible structure into the surfaced-memory envelope because those fields are not serialized as inert data. A crafted memory can create misleading structural boundaries or visually conceal surfaced content, affecting how a consuming agent interprets the memory context. Ordinary natural-language persuasion remains a residual model-level risk and is outside the structural serialization flaw. This issue is fixed in version 0.1.34.",
+    "dataCreazione": "2026-11-20T17:18:27.233",
     "tags": [
       "cve",
       "nvd",
@@ -7487,8 +7079,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133066.com",
-        "API su api.cve-2026-133066.com",
+        "Tutti i domini *.cve-2026-77332.com",
+        "API su api.cve-2026-77332.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7579,7 +7171,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133066",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-77332",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7607,15 +7199,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133067",
-    "titolo": "CVE-2026-133067: A flaw was found in Moodle. Due to missing ownership checks in badge alignments, an authenticated us...",
+    "id": "nvd-CVE-2026-79751",
+    "titolo": "CVE-2026-79751: SportEase is a web application for managing school sports events, class rosters, and competition tea...",
     "programma": "NVD CVE Database",
     "payout": 0,
-    "severita": "medium",
+    "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133067",
-    "descrizione": "A flaw was found in Moodle. Due to missing ownership checks in badge alignments, an authenticated user with badge management privileges can view and modify alignments associated with badges they do not own. This vulnerability can lead to unauthorized data disclosure and tampering with badge configurations.",
-    "dataCreazione": "2026-11-19T16:21:20.497",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-79751",
+    "descrizione": "SportEase is a web application for managing school sports events, class rosters, and competition teams. Prior to 1.3, an authenticated account with is_profile_complete=false can submit an attacker-selected class_id for any class in the currently active event to PUT /api/user/profile during first profile completion. AuthHandler.UpdateProfile accepts the class without validating the user's legitimate membership and automatically derives and assigns the corresponding {class_name}_rep role while isFirstCompletion is true. The attacker can become representative of one selected class, view roster information including email addresses, and add or remove competition-team assignments. Downstream handlers correctly reject access to other classes, so the impact is bounded to the selected class, but the representative privilege cannot be revoked through the exposed API and requires direct database intervention or another out-of-band remediation method. This issue is fixed in version 1.3.",
+    "dataCreazione": "2026-11-20T17:18:27.397",
     "tags": [
       "cve",
       "nvd",
@@ -7623,8 +7215,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133067.com",
-        "API su api.cve-2026-133067.com",
+        "Tutti i domini *.cve-2026-79751.com",
+        "API su api.cve-2026-79751.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7715,7 +7307,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133067",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-79751",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7743,15 +7335,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133068",
-    "titolo": "CVE-2026-133068: A flaw was found in Moodle. An improper authorization check when displaying individual glossary entr...",
+    "id": "nvd-CVE-2026-82675",
+    "titolo": "CVE-2026-82675: The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to donor ac...",
     "programma": "NVD CVE Database",
     "payout": 0,
-    "severita": "medium",
+    "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133068",
-    "descrizione": "A flaw was found in Moodle. An improper authorization check when displaying individual glossary entries allows an authenticated user to view approved glossary items from courses they do not have permission to access. This vulnerability leads to unauthorized information disclosure of restricted educational materials.",
-    "dataCreazione": "2026-11-19T16:21:20.623",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82675",
+    "descrizione": "The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to donor account account takeover in all versions up to, and including, 4.17.0. This is due to the plugin not properly validating a donor's identity prior to updating the password of a linked WordPress account. The donation receipt processes an attacker-controlled first name through the V3 template engine and then reprocesses the result through the legacy `{meta_donor_*}` engine, which can disclose the donor's email-access bearer token. The donor-dashboard password endpoint accepts that token by itself and calls `wp_set_password()` for the WordPress user linked to the donor. This makes it possible for unauthenticated attackers to reset the password of any WordPress account linked to a GiveWP donor record and gain access to that account. If the linked account is an administrator, the attacker can achieve full site compromise and remote code execution through standard administrator functionality. A published GiveWP form with a usable gateway, enabled donor email access (enabled by default), knowledge of the donor email address, and an account already linked to the targeted donor record are required. NOTE: This vulnerability can be chained with CVE-2026-82676 to satisfy the administrator donor pre-requisite for a targeted administrator user attack.",
+    "dataCreazione": "2026-11-20T17:18:27.703",
     "tags": [
       "cve",
       "nvd",
@@ -7759,8 +7351,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133068.com",
-        "API su api.cve-2026-133068.com",
+        "Tutti i domini *.cve-2026-82675.com",
+        "API su api.cve-2026-82675.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7851,7 +7443,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133068",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-82675",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -7879,15 +7471,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133069",
-    "titolo": "CVE-2026-133069: A flaw was found in Moodle. Missing authorization checks in the forum discussion web services allow ...",
+    "id": "nvd-CVE-2026-82676",
+    "titolo": "CVE-2026-82676: The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to Cross-Si...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133069",
-    "descrizione": "A flaw was found in Moodle. Missing authorization checks in the forum discussion web services allow authenticated users to view discussion information in courses they do not have permission to access. In addition, users with teacher privileges may lock forum discussions in courses where they lack proper authorization. This issue can lead to unauthorized information disclosure and unauthorized discussion state modification.",
-    "dataCreazione": "2026-11-19T16:21:20.750",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82676",
+    "descrizione": "The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 4.16.7.2. This is due to missing nonce validation on the `give_render_donor_view()` function. This makes it possible for unauthenticated attackers to reassign an arbitrary GiveWP donor record to an arbitrary WordPress user via a forged request granted they can trick a site administrator into performing an action such as clicking on a link. The resulting association changes donor-account ownership and can satisfy the linked-donor precondition for a separately tracked account-takeover vulnerability (CVE-2026-82675).",
+    "dataCreazione": "2026-11-20T17:18:27.877",
     "tags": [
       "cve",
       "nvd",
@@ -7895,8 +7487,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133069.com",
-        "API su api.cve-2026-133069.com",
+        "Tutti i domini *.cve-2026-82676.com",
+        "API su api.cve-2026-82676.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -7987,7 +7579,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133069",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-82676",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -8015,15 +7607,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133070",
-    "titolo": "CVE-2026-133070: A flaw was found in Moodle. Due to a missing authorization check when viewing and restoring wiki pag...",
+    "id": "nvd-CVE-2026-95824",
+    "titolo": "CVE-2026-95824: The IPv6 Neighbor Discovery code in subsys/net/ip/ipv6_nbr.c flushes a neighbour's queued packets at...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133070",
-    "descrizione": "A flaw was found in Moodle. Due to a missing authorization check when viewing and restoring wiki page versions, an authenticated user can access content from courses they are not permitted to view. This issue allows an attacker to inspect restricted course material and copy it into their own wiki pages, leading to unauthorized information disclosure.",
-    "dataCreazione": "2026-11-19T16:21:20.877",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-95824",
+    "descrizione": "The IPv6 Neighbor Discovery code in subsys/net/ip/ipv6_nbr.c flushes a neighbour's queued packets at the end of handle_ra_input(). The Source Link-Layer Address Option (SLLAO) is optional in a Router Advertisement; when it is absent, handle_ra_input() still obtains (or creates) a neighbour cache entry for the RA source via net_ipv6_nbr_add() with a NULL link-layer address, so the entry stays in NET_IPV6_NBR_STATE_INCOMPLETE with nbr->idx == NET_NBR_LLADDR_UNKNOWN. The pending-packet drain loop was entered unconditionally for that unresolved entry.\n\nEach net_send_data() in the drain loop runs synchronously into net_ipv6_prepare_for_send(), which finds the neighbour still unresolved and hands the packet to net_ipv6_send_ns(), which puts it straight back onto the same pending_queue. The loop therefore never sees an empty queue. With a single queued packet it transmits a fresh Neighbor Solicitation on every iteration; with two or more queued packets it rotates the queue with no allocation and no transmission at all. The loop runs in the network RX thread with the global IPv6 neighbour mutex held.\n\nAn unauthenticated attacker on the same link can trigger this deterministically: advertise itself as a router, induce the victim to queue off-link traffic toward that router (for example by sending echo requests with an off-link source address) while leaving the solicitation unanswered, then send a second Router Advertisement without an SLLAO option. Spoofing an SLLAO-less RA from the legitimate router's link-local address has the same effect whenever traffic is queued for it. Router Advertisements are processed with no authentication whenever CONFIG_NET_IPV6_ND is enabled, which is the default for IPv6-capable builds.\n\nThe result is a permanent denial of service: the RX thread spins forever holding the neighbour lock, so all IPv6 transmission and every other user of the neighbour cache blocks, and the Neighbor Advertisement that would resolve the entry can no longer be processed. The ipv6_ns_reply_timer work item that would normally drop the pending packets also blocks on the same mutex. In the single-packet variant the loop additionally floods the link with Neighbor Solicitations. The fix restricts the flush to resolved entries (nbr->idx != NET_NBR_LLADDR_UNKNOWN), leaving the packets queued for the NS reply timeout. There is no memory-safety impact.",
+    "dataCreazione": "2026-11-20T17:18:28.167",
     "tags": [
       "cve",
       "nvd",
@@ -8031,8 +7623,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133070.com",
-        "API su api.cve-2026-133070.com",
+        "Tutti i domini *.cve-2026-95824.com",
+        "API su api.cve-2026-95824.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -8123,7 +7715,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133070",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-95824",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -8151,15 +7743,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133071",
-    "titolo": "CVE-2026-133071: A flaw was found in Moodle. Due to a missing authorization check when editing Lesson activity pages,...",
+    "id": "nvd-CVE-2026-103933",
+    "titolo": "CVE-2026-103933: Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 2.1.0 unt...",
     "programma": "NVD CVE Database",
     "payout": 0,
     "severita": "medium",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133071",
-    "descrizione": "A flaw was found in Moodle. Due to a missing authorization check when editing Lesson activity pages, authenticated users with teacher privileges can view and move lesson pages from courses they are not permitted to access into their own lessons. This issue can lead to unauthorized access and modification of restricted course content.",
-    "dataCreazione": "2026-11-19T16:21:21.003",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103933",
+    "descrizione": "Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 2.1.0 until 4.5.2, get_eacontent in libatalk/vfs/ea_ad.c subtracts MAX_REPLY_EXTRA_BYTES from a client-controlled FPGetExtAttr MaxReplySize without rejecting values from 1 through 5, and a signed-to-unsigned comparison can then select an untrusted AppleDouble ea_size. An authenticated client on a volume configured with ea = ad can use a pre-existing malformed AppleDouble sidecar to make read copy attacker-controlled bytes beyond dsi->data + 6 into the surrounding struct DSI, including protocol callback pointers. The malformed sidecar must already exist or be created through a separate local, co-export, management, restore, or vulnerability-assisted write path, and practical code execution depends on the target architecture, structure layout, and address uncertainty; runtime command execution was demonstrated on one x86-64 build. Volumes using ea = sys, ea = none, or ea = auto when it resolves to native system xattrs do not reach this path. This issue is fixed in version 4.5.2.",
+    "dataCreazione": "2026-11-20T18:18:34.790",
     "tags": [
       "cve",
       "nvd",
@@ -8167,8 +7759,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133071.com",
-        "API su api.cve-2026-133071.com",
+        "Tutti i domini *.cve-2026-103933.com",
+        "API su api.cve-2026-103933.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -8259,7 +7851,7 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133071",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-103933",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -8287,15 +7879,15 @@
     }
   },
   {
-    "id": "nvd-CVE-2026-133072",
-    "titolo": "CVE-2026-133072: A flaw was found in Moodle. Insufficient authorization checks in the quiz editing functionality allo...",
+    "id": "nvd-CVE-2026-104184",
+    "titolo": "CVE-2026-104184: LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, LinkController::update() ...",
     "programma": "NVD CVE Database",
     "payout": 0,
-    "severita": "medium",
+    "severita": "high",
     "assetType": "other",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133072",
-    "descrizione": "A flaw was found in Moodle. Insufficient authorization checks in the quiz editing functionality allow an authenticated user with teacher privileges to view slot details and modify sections of quizzes they do not have permission to manage. An attacker could exploit this flaw to alter quiz configurations or disclose quiz structure information without proper authorization.",
-    "dataCreazione": "2026-11-19T16:21:21.140",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104184",
+    "descrizione": "LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, LinkController::update() in app/Http/Controllers/API/LinkController.php passes $request->all() to the repository update method even though user_id is fillable and is not an allowed field in the validated update request. An authenticated API user who is authorized to update a link can therefore assign an arbitrary or nonexistent user_id, transferring the link into another user's bookmark collection or orphaning it from any real account. The web update controller is unaffected because it passes only validated fields. This issue is fixed in version 2.6.0.",
+    "dataCreazione": "2026-11-20T18:18:34.980",
     "tags": [
       "cve",
       "nvd",
@@ -8303,8 +7895,8 @@
     ],
     "mission": {
       "scope": [
-        "Tutti i domini *.cve-2026-133072.com",
-        "API su api.cve-2026-133072.com",
+        "Tutti i domini *.cve-2026-104184.com",
+        "API su api.cve-2026-104184.com",
         "App mobile su Google Play / App Store"
       ],
       "outOfScope": [
@@ -8395,7 +7987,415 @@
         "curl/wget"
       ],
       "quickStartGuide": [
-        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-133072",
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-104184",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-104185",
+    "titolo": "CVE-2026-104185: LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the HTML bookmark import ...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104185",
+    "descrizione": "LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the HTML bookmark import action in app/Actions/ImportHtmlBookmarks.php uses the global Link::whereUrl() lookup instead of restricting duplicate detection to the importing user. An authenticated user can submit a chosen URL and distinguish the skipped response count from the queued count to learn whether any account has saved that URL, including as a PRIVATE bookmark. The oracle reveals URL existence but does not directly return the bookmark contents or owner. This issue is fixed in version 2.6.0.",
+    "dataCreazione": "2026-11-20T18:18:35.130",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-104185.com",
+        "API su api.cve-2026-104185.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-104185",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-104186",
+    "titolo": "CVE-2026-104186: LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the authenticated GET /li...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104186",
+    "descrizione": "LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the authenticated GET /lists/{list}/feed and GET /tags/{tag}/feed handlers in app/Http/Controllers/App/FeedController.php use integer route model binding without an object-level authorization or visibility check. Unlike the web list controller, which invokes LinkListPolicy::view(), the feed controller lets a normal authenticated user enumerate another user's private list or tag and receive its name and feed metadata, along with public or internal bookmark entries associated with that taxonomy. The existing per-link visibility filter still excludes PRIVATE link records, so the disclosure is limited to the private taxonomy and its non-private member links. This issue is fixed in version 2.6.0.",
+    "dataCreazione": "2026-11-20T18:18:35.280",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-104186.com",
+        "API su api.cve-2026-104186.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-104186",
+        "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
+        "Step 3: Crea due account: attaccante e vittima su due browser diversi",
+        "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
+        "Step 5: Inizia con OWASP Top 10 e tools automatici (nuclei, sqlmap)",
+        "Step 6: Testa manualmente la business logic (sconti, ruoli, workflow)",
+        "Step 7: Documenta OGNI cosa interessante",
+        "Step 8: Scrivi un report chiaro con PoC riproducibile in 5 minuti",
+        "Step 9: Submeti e rispondi velocemente a domande del triage",
+        "Step 10: Studia i report pubblici (HackerOne Hacktivity) per imparare"
+      ],
+      "estimatedTimeToFirstReport": "20-40 ore",
+      "difficulty": "intermediate",
+      "tips": [
+        "💡 Leggi almeno 50 report risolti su HackerOne Hacktivity prima di iniziare",
+        "💡 Concentrati su UN programma per almeno 2 settimane",
+        "💡 Le business logic bug pagano DI PIÙ delle XSS",
+        "💡 I bug race condition sono sottovalutati ma pagati",
+        "💡 Usa Wayback Machine (web.archive.org) per trovare endpoint dimenticati",
+        "💡 Controlla sempre le API mobile vs web",
+        "💡 Non riportare MAI self-XSS, clickjacking senza impatto",
+        "💡 Impara Burp a livello avanzato: macro, match/replace, scanner",
+        "💡 La qualità del report > quantità",
+        "💡 Network: Discord Bugcrowd, NahamSec, InsiderPhD, STÖK"
+      ]
+    }
+  },
+  {
+    "id": "nvd-CVE-2026-110779",
+    "titolo": "CVE-2026-110779: Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 unt...",
+    "programma": "NVD CVE Database",
+    "payout": 0,
+    "severita": "medium",
+    "assetType": "other",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110779",
+    "descrizione": "Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.2, sl_createCNIDArray in etc/afpd/spotlight.c assumes every element of kMDQueryItemArray points to an eight-byte uint64_t and copies sizeof(uint64_t) bytes from the indexed p->dd_talloc_array element without validating the element's talloc type or allocation size. An authenticated AFP client with access to a Spotlight-enabled volume can use FPSpotlightRPC to supply a mixed-type sl_array_t containing a shorter boolean, nil, or string element, and an unauthenticated client can reach the same path when the optional guest UAM and a guest-accessible volume are enabled. The resulting eight-byte read extends beyond the shorter element's heap allocation and supplies an internal CNID filter; no confidentiality channel, write primitive, or code execution was demonstrated, while a production crash would require additional heap placement conditions. The container-type validation added for CVE-2023-42464 does not validate each element inside an accepted sl_array_t and therefore does not resolve this issue. This issue is fixed in version 4.5.2.",
+    "dataCreazione": "2026-11-20T18:18:35.553",
+    "tags": [
+      "cve",
+      "nvd",
+      "vulnerability-research"
+    ],
+    "mission": {
+      "scope": [
+        "Tutti i domini *.cve-2026-110779.com",
+        "API su api.cve-2026-110779.com",
+        "App mobile su Google Play / App Store"
+      ],
+      "outOfScope": [
+        "Attacchi DDoS / volumetrici",
+        "Social engineering su dipendenti",
+        "Test su ambienti di produzione con dati reali di utenti",
+        "Spam o invio massivo di contenuti",
+        "Vulnerabilità in browser di terze parti (es. Chrome bugs)",
+        "Rate limiting issues senza impatto reale",
+        "Self-XSS (richiede azione della vittima)",
+        "Vulnerabilità che richiedono accesso fisico al device",
+        "Clickjacking su pagine senza azioni sensibili",
+        "Best practice senza impatto dimostrabile",
+        "Username/email enumeration su form pubblici",
+        "CSRF su endpoint non state-changing",
+        "Vulnerabilità già note pubblicamente senza PoC aggiuntivo",
+        "Problemi di SPF/DKIM/DMARC",
+        "Mixed content warnings su pagine non autenticabili"
+      ],
+      "owaspCategories": [
+        "A01:2021 - Broken Access Control",
+        "A02:2021 - Cryptographic Failures",
+        "A03:2021 - Injection (SQL, NoSQL, OS)",
+        "A04:2021 - Insecure Design",
+        "A05:2021 - Security Misconfiguration",
+        "A07:2021 - Identification and Authentication Failures"
+      ],
+      "testingTechniques": [
+        {
+          "name": "Analisi Generica",
+          "description": "Approccio metodico di bug hunting su tecnologia custom",
+          "steps": [
+            "Identifica tutte le superfici di input/output",
+            "Mappa flusso dati end-to-end",
+            "Testa ogni input con fuzzing (boofuzz, radamsa)",
+            "Verifica configurazioni di default e credenziali",
+            "Documenta ogni anomalia con PoC riproducibile"
+          ]
+        }
+      ],
+      "rewardsBySeverity": [
+        {
+          "severity": "critical",
+          "min": 5000,
+          "max": 50000,
+          "bonus": "Bonus reputazione + Hall of Fame"
+        },
+        {
+          "severity": "high",
+          "min": 1500,
+          "max": 10000,
+          "bonus": "Hall of Fame"
+        },
+        {
+          "severity": "medium",
+          "min": 500,
+          "max": 2500
+        },
+        {
+          "severity": "low",
+          "min": 100,
+          "max": 500
+        },
+        {
+          "severity": "informational",
+          "min": 0,
+          "max": 100,
+          "bonus": "Solo se impatto dimostrabile"
+        }
+      ],
+      "reportingSteps": [
+        "1. REGISTRAZIONE: Crea un account sul programma e metti il tuo handle di test in bio",
+        "2. RACCOLTA PROVE: Cattura screenshot/video di OGNI step della riproduzione con timestamp",
+        "3. MINIMIZZAZIONE: Crea un account demo e un account vittima (no dati reali)",
+        "4. REDAZIONE REPORT: Segui il template del programma, includi: Summary, Impact, Steps to Reproduce, PoC, Remediation",
+        "5. IMPATTO BUSINESS: Spiega sempre \"What can an attacker do?\" non solo \"How does it work\"",
+        "6. CVSS SCORE: Calcola il punteggio CVSS v3.1 con cvss calculator",
+        "7. SUBMIT: Carica su HackerOne/Bugcrowd/Intigriti e attendi triage (24-72h)",
+        "8. DUPLICATI: Se è un dup, è normale. Continua a cacciare!",
+        "9. RETEST: Dopo il fix, verifica che la patch funzioni davvero",
+        "10. DISCLOSURE: Aspetta il permesso del programma prima di blog/tweet"
+      ],
+      "toolsRecommended": [
+        "Burp Suite",
+        "nmap",
+        "Wireshark",
+        "browser DevTools",
+        "curl/wget"
+      ],
+      "quickStartGuide": [
+        "Step 1: Leggi TUTTO il policy del programma su CVE-2026-110779",
         "Step 2: Configura Burp Suite con il proxy del tuo browser (FoxyProxy)",
         "Step 3: Crea due account: attaccante e vittima su due browser diversi",
         "Step 4: Mappa tutte le feature: signup, login, profilo, pagamenti, API",
@@ -13198,7 +13198,7 @@
     }
   },
   {
-    "id": "edb-1795709894886-0.7195680595564842",
+    "id": "edb-1795795334285-0.8146457370089377",
     "titolo": "[remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution (RCE)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13334,7 +13334,7 @@
     }
   },
   {
-    "id": "edb-1795709894886-0.9493854415251077",
+    "id": "edb-1795795334285-0.4934494932581075",
     "titolo": "[remote] PHP &gt; 5.4 - 'PHP2Shell' Remote Code Execution (RCE)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13470,7 +13470,7 @@
     }
   },
   {
-    "id": "edb-1795709894886-0.08490292658717102",
+    "id": "edb-1795795334285-0.8251038183888986",
     "titolo": "[webapps] pizzafy-1.0 - SQL Injection (SQLi)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13606,7 +13606,7 @@
     }
   },
   {
-    "id": "edb-1795709894886-0.51813690460804",
+    "id": "edb-1795795334286-0.26563774487333847",
     "titolo": "[remote] South River Technologies Titan MFT Server 26.0.0 - Code Execution",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13742,7 +13742,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.8960775679401125",
+    "id": "edb-1795795334286-0.6094268612686782",
     "titolo": "[remote] Synametrics Syncrify 6.2 - Command Execution",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -13878,7 +13878,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.09437840893376404",
+    "id": "edb-1795795334286-0.8182261034173446",
     "titolo": "[webapps] Keycloak 26.7.2 - Unauthenticated Account Takeover",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14014,7 +14014,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.21312961530144858",
+    "id": "edb-1795795334286-0.6887615905846576",
     "titolo": "[webapps] Open eClass 3.15 - Remote Code Execution (RCE)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14150,7 +14150,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.40685001318663216",
+    "id": "edb-1795795334286-0.6180026526866602",
     "titolo": "[webapps] Automotive Shop Management System 1.0 - SQL Injection (SQLi)",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14286,7 +14286,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.05228845206524779",
+    "id": "edb-1795795334286-0.9561636273882828",
     "titolo": "[remote] Edimax BR-6478AC firmware 2.20 - Authenticated Command Injection",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14422,7 +14422,7 @@
     }
   },
   {
-    "id": "edb-1795709894887-0.04441147209429852",
+    "id": "edb-1795795334286-0.24003378651223972",
     "titolo": "[remote] Exasol Database 7.1.30 - Command Execution",
     "programma": "Exploit-DB",
     "payout": 0,
@@ -14558,7 +14558,7 @@
     }
   },
   {
-    "id": "rss-1795709895974-0.7513309449049139",
+    "id": "rss-1795795337667-0.9858532202588153",
     "titolo": "CTO of &#8216;RansomwareHelp&#8217; Indicted for Wire Fraud",
     "programma": "Security News",
     "payout": 0,
@@ -14693,7 +14693,7 @@
     }
   },
   {
-    "id": "rss-1795709895974-0.9853184480234953",
+    "id": "rss-1795795337668-0.6844826257585812",
     "titolo": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
     "programma": "Security News",
     "payout": 0,
@@ -14828,7 +14828,7 @@
     }
   },
   {
-    "id": "rss-1795709895974-0.6527714261154987",
+    "id": "rss-1795795337668-0.4273134759839883",
     "titolo": "Who Runs the Ransomware Group Qilin?",
     "programma": "Security News",
     "payout": 0,
@@ -14963,7 +14963,7 @@
     }
   },
   {
-    "id": "rss-1795709895974-0.2697099587717904",
+    "id": "rss-1795795337668-0.8299042089689814",
     "titolo": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
     "programma": "Security News",
     "payout": 0,
@@ -15098,7 +15098,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.5441064133143438",
+    "id": "rss-1795795337668-0.7325166475904645",
     "titolo": "Want to Rent an Internet Address at the White House?",
     "programma": "Security News",
     "payout": 0,
@@ -15233,7 +15233,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.2848579318618709",
+    "id": "rss-1795795337668-0.509581199616961",
     "titolo": "Student Loan Breach Exposes 2.5M Records",
     "programma": "Security News",
     "payout": 0,
@@ -15368,7 +15368,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.24693631966087448",
+    "id": "rss-1795795337668-0.7928099571733247",
     "titolo": "Watering Hole Attacks Push ScanBox Keylogger",
     "programma": "Security News",
     "payout": 0,
@@ -15503,7 +15503,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.7543046133385223",
+    "id": "rss-1795795337668-0.8795870140507354",
     "titolo": "Tentacles of &#8216;0ktapus&#8217; Threat Group Victimize 130 Firms",
     "programma": "Security News",
     "payout": 0,
@@ -15638,7 +15638,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.08626865233395886",
+    "id": "rss-1795795337668-0.5111126494618374",
     "titolo": "Ransomware Attacks are on the Rise",
     "programma": "Security News",
     "payout": 0,
@@ -15773,7 +15773,7 @@
     }
   },
   {
-    "id": "rss-1795709895975-0.5464972690260588",
+    "id": "rss-1795795337668-0.12372654506248981",
     "titolo": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "programma": "Security News",
     "payout": 0,
@@ -15916,7 +15916,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/shopify",
     "descrizione": "Shopify gestisce milioni di negozi online. Focus su: XSS, IDOR, payment bypass, app vulnerabilities, admin panel access, API token leakage",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "shopify",
       "ecommerce",
@@ -16117,7 +16117,7 @@
     "assetType": "api",
     "url": "https://hackerone.com/paypal",
     "descrizione": "PayPal accetta bug su tutte le sue piattaforme. Focus su: payment bypass, account takeover, OAuth flaws, transaction manipulation, PII exposure",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "paypal",
       "payments",
@@ -16302,7 +16302,7 @@
     "assetType": "web",
     "url": "https://www.microsoft.com/en-us/msrc/bounty",
     "descrizione": "Microsoft bounty su Office 365, Azure, Teams, Windows, Bing, Edge. Reward fino a $100k per RCE su Azure",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "microsoft",
       "azure",
@@ -16503,7 +16503,7 @@
     "assetType": "mobile",
     "url": "https://developer.apple.com/security-bounty/",
     "descrizione": "Apple paga per bug in iOS, macOS, watchOS, tvOS, iCloud, Apple ID. Fino a $1M per lockpwn su iPhone",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "apple",
       "ios",
@@ -16677,7 +16677,7 @@
     "assetType": "web",
     "url": "https://bugcrowd.com/netflix",
     "descrizione": "Netflix accetta report su servizi streaming, API, account management, content security, DRM bypass",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "netflix",
       "streaming",
@@ -16877,7 +16877,7 @@
     "assetType": "mobile",
     "url": "https://hackerone.com/uber",
     "descrizione": "Uber copre: rider app, driver app, eat app, freight, internal tools. Focus su location spoofing, payment bypass, driver impersonation",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "uber",
       "mobile",
@@ -17050,7 +17050,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/airbnb",
     "descrizione": "Airbnb copre accommodation platform, payments, host/guest interactions, calendar manipulation, listing approval bypass",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "airbnb",
       "hospitality",
@@ -17250,7 +17250,7 @@
     "assetType": "api",
     "url": "https://hackerone.com/coinbase",
     "descrizione": "Coinbase exchange accetta bug su web, mobile, API, wallet, exchange. Focus su crypto theft prevention, account takeover, withdrawal bypass",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "coinbase",
       "crypto",
@@ -17435,7 +17435,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/slack",
     "descrizione": "Slack accetta bug su: workspace security, message access, file sharing, OAuth apps, integration permissions",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "slack",
       "communication",
@@ -17635,7 +17635,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/twitter",
     "descrizione": "Twitter/X copre la piattaforma social, API, mobile app, account security, tweet manipulation, ad platform",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "twitter",
       "x",
@@ -17836,7 +17836,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/facebook",
     "descrizione": "Meta copre Facebook, Instagram, WhatsApp, Messenger, Oculus, Meta Quest. Focus su privacy bypass, account takeover, cross-product bugs",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "meta",
       "facebook",
@@ -18038,7 +18038,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/reddit",
     "descrizione": "Reddit copre la piattaforma social, mod tools, awards, ads, community management, user data",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "reddit",
       "social",
@@ -18238,7 +18238,7 @@
     "assetType": "web",
     "url": "https://bughunters.google.com/about/rules/5428186903732224/youtube-and-youtube-tv-vulnerability-reward-program",
     "descrizione": "YouTube via Google VRP. Focus su: account takeover, comment XSS, video privacy bypass, channel hijack, monetization bugs",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "youtube",
       "google",
@@ -18380,7 +18380,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/linkedin",
     "descrizione": "LinkedIn copre social network professionale, jobs, recruiter tools, premium features, OAuth, mobile app",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "linkedin",
       "social",
@@ -18581,7 +18581,7 @@
     "assetType": "web",
     "url": "https://hackerone.com/dropbox",
     "descrizione": "Dropbox copre cloud storage, file sharing, sync client, OAuth, API, desktop & mobile apps",
-    "dataCreazione": "2026-11-26T16:18:16.321Z",
+    "dataCreazione": "2026-11-27T16:02:17.668Z",
     "tags": [
       "dropbox",
       "storage",
